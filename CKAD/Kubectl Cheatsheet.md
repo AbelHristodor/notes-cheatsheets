@@ -39,3 +39,9 @@ export KUBECONFIG=~/.kube/kube-config-1.yml:~/.kube/kube-config-N.yml
 | `k edit pod <pod_name>`                                         |                                                 Edit pod through tty                                                 |
 
 ### Creation
+| Command                                                         | Description                             |
+| --------------------------------------------------------------- | --------------------------------------- |
+| `k create -f <filename>.yaml`                                   | Creates a k8s resource from a file      |
+| `k apply -f <filename>.yaml`                                    | Applies a configuration file            |
+| `k scale <resource  rs  deploy> <resource_name> --replicas=N` | Scales a resource by the desired amount |
+|                                                                 |                                         |
