@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CKAD/ReplicaSet.md",
+                "file": "CKAD/Kubectl Cheatsheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CKAD/ReplicaSet.md",
+                "file": "CKAD/Kubectl Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CKAD/ReplicaSet.md",
+                "file": "CKAD/Kubectl Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CKAD/ReplicaSet.md"
+                "file": "CKAD/Kubectl Cheatsheet.md"
               }
             }
           }
@@ -142,7 +142,7 @@
   },
   "active": "4e016b7291f2953e",
   "lastOpenFiles": [
-    "CKAD/Kubernetes Recap.md",
-    "CKAD/ReplicaSet.md"
+    "CKAD/ReplicaSet.md",
+    "CKAD/Kubernetes Recap.md"
   ]
 }

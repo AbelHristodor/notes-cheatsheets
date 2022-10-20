@@ -37,3 +37,5 @@ export KUBECONFIG=~/.kube/kube-config-1.yml:~/.kube/kube-config-N.yml
 | `k describe <resource> <resource_name>`                         |                                          Returns all info about a resource                                           |
 | `k get pod <pod_name> -o yaml > pod-definition.yaml`            |                              In order to extract the definition file of a pod/resource                               |
 | `k edit pod <pod_name>`                                         |                                                 Edit pod through tty                                                 |
+
+### Creation
