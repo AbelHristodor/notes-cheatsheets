@@ -11,8 +11,12 @@
             "id": "4e016b7291f2953e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CKAD/ReplicaSet.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 209.5,
+    "collapsed": true
   },
   "right": {
     "id": "7d6416980086489a",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CKAD/ReplicaSet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CKAD/ReplicaSet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CKAD/ReplicaSet.md"
+              }
             }
           }
         ]
@@ -132,5 +141,8 @@
     "mostRecentAction": ""
   },
   "active": "4e016b7291f2953e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "CKAD/Kubernetes Recap.md",
+    "CKAD/ReplicaSet.md"
+  ]
 }
