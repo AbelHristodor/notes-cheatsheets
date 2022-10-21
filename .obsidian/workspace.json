@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5,
-    "collapsed": true
+    "width": 209.5
   },
   "right": {
     "id": "7d6416980086489a",
@@ -142,8 +141,8 @@
   },
   "active": "4e016b7291f2953e",
   "lastOpenFiles": [
-    "CKAD/Kubectl Cheatsheet.md",
     "CKAD/ReplicaSet.md",
-    "CKAD/Kubernetes Recap.md"
+    "CKAD/Kubernetes Recap.md",
+    "CKAD/Kubectl Cheatsheet.md"
   ]
 }
