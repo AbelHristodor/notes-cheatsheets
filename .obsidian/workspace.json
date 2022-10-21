@@ -4,36 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9427c0a47c397dee",
+        "id": "c5edafc6d6b97ccd",
         "type": "tabs",
         "children": [
           {
-            "id": "4e016b7291f2953e",
+            "id": "dda8681e7c470911",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CKAD/ReplicaSet_Deployments.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d08202b3e6d6055b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CKAD/Kubectl Cheatsheet.md",
+                "file": "CKAD/Docker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CKAD/Kubectl Cheatsheet.md",
+                "file": "CKAD/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CKAD/Kubectl Cheatsheet.md",
+                "file": "CKAD/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,11 +126,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CKAD/Kubectl Cheatsheet.md"
+                "file": "CKAD/Docker.md"
               }
             }
+          },
+          {
+            "id": "457e3581f1a2cb3c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -153,10 +149,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d08202b3e6d6055b",
+  "active": "dda8681e7c470911",
   "lastOpenFiles": [
-    "CKAD/ReplicaSet_Deployments.md",
     "CKAD/Kubectl Cheatsheet.md",
+    "CKAD/ReplicaSet_Deployments.md",
     "CKAD/Namespaces.md",
     "CKAD/Kubernetes Recap.md"
   ]

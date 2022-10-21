@@ -22,8 +22,8 @@ export KUBECONFIG=~/.kube/kube-config-1.yml:~/.kube/kube-config-N.yml
 
 ### Cluster Management
 
-|        Command         |                            Description                             |
-|:----------------------:|:------------------------------------------------------------------:|
+| Command                |                            Description                             |
+|:---------------------- |:------------------------------------------------------------------:|
 | `kubectl cluster-info` | Display endpoint info about the master and services in the cluster |
 | `kubectl config view`  |                Get the configuration of the cluster                |
 
