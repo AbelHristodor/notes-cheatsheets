@@ -39,3 +39,8 @@ export KUBECONFIG=~/.kube/kube-config-1.yml:~/.kube/kube-config-N.yml
 | `k edit pod <pod_name>`                                         |                                                 Edit pod through tty                                                 |
 
 ### Creation
+| Command                 | Description                                                |
+| ----------------------- | ---------------------------------------------------------- |
+| `k create -f file.yaml` | Creates the defined resources of a file, imperative manner |
+| `k apply -f file.yaml`  | Creates defined resources of a file, declarative manner    |
+|                         |                                                            |
