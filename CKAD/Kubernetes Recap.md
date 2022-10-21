@@ -64,14 +64,13 @@ spec:
   containers:
     - name: nginx-container
       image: nginx:<version|tag>
-      
 ```
 
 | Key          | Description                                                                         |
 | ------------ | ----------------------------------------------------------------------------------- |
 | `apiVersion` | Version of the api of reference                                                     |
 | `kind`       | Can be of type Pod, Service, ReplicaSet, Deployment and other custom resources      |
-| metadata     | Set metadata values, only keys that k8s expects and nothing else.                   |
-| name         | Pod name                                                                            |
-| labels       | Dictionary that can have any key-value pairs. E.g. labels can be used to group pods |
-| spec         | Specification dictionary containing settings for the pod (or other resources)                                                                                    |
+| `metadata`     | Set metadata values, only keys that k8s expects and nothing else.                   |
+| `name`         | Pod name                                                                            |
+| `labels`       | Dictionary that can have any key-value pairs. E.g. labels can be used to group pods |
+| `spec`         | Specification dictionary containing settings for the pod (or other resources)                                                                                    |

@@ -156,8 +156,8 @@
   "active": "d08202b3e6d6055b",
   "lastOpenFiles": [
     "CKAD/Namespaces.md",
+    "CKAD/Kubernetes Recap.md",
     "CKAD/Kubectl Cheatsheet.md",
-    "CKAD/ReplicaSet_Deployments.md",
-    "CKAD/Kubernetes Recap.md"
+    "CKAD/ReplicaSet_Deployments.md"
   ]
 }
