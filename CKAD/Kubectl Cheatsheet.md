@@ -29,18 +29,20 @@ export KUBECONFIG=~/.kube/kube-config-1.yml:~/.kube/kube-config-N.yml
 
 ### Resource Management
 
-| Command                                                         |                                                     Description                                                      |
-|:--------------------------------------------------------------- |:--------------------------------------------------------------------------------------------------------------------:|
-| `kubectl get all -A`                                            |                           Lists all resources from all namespaces (-A = --all-namespaces)                            |
-| `k delete <resource> <resource_name> --grace-period=0 --formce` |                                             Force delete named resource                                              |
-| `k get <resource> <resource_name>`                              | Returns general info of one resource. Add the `-o wide|json` flag for more info or to return the info in json format |
-| `k describe <resource> <resource_name>`                         |                                          Returns all info about a resource                                           |
-| `k get pod <pod_name> -o yaml > pod-definition.yaml`            |                              In order to extract the definition file of a pod/resource                               |
-| `k edit pod <pod_name>`                                         |                                                 Edit pod through tty                                                 |
+| Command                                                           |                                                     Description                                                      |
+|:----------------------------------------------------------------- |:--------------------------------------------------------------------------------------------------------------------:|
+| `kubectl get all -A`                                              |                           Lists all resources from all namespaces (-A = --all-namespaces)                            |
+| `k delete <resource> <resource_name> --grace-period=0 --formce`   |                                             Force delete named resource                                              |
+| `k get <resource> <resource_name>`                                | Returns general info of one resource. Add the `-o wide|json` flag for more info or to return the info in json format |
+| `k describe <resource> <resource_name>`                           |                                          Returns all info about a resource                                           |
+| `k get pod <pod_name> -o yaml > pod-definition.yaml`              |                              In order to extract the definition file of a pod/resource                               |
+| `k edit pod <pod_name>`                                           |                                                 Edit pod through tty                                                 |
+| `k config set-context $(k config current-context) -n=<namespace>` |                                   Changes the default namespace to the one defined                                   |
+|                                                                   |                                                                                                                      |
 
 ### Creation
-| Command                 | Description                                                |
-| ----------------------- | ---------------------------------------------------------- |
-| `k create -f file.yaml` | Creates the defined resources of a file, imperative manner |
-| `k apply -f file.yaml`  | Creates defined resources of a file, declarative manner    |
-|                         |                                                            |
+| Command                   | Description                                                |
+| ------------------------- | ---------------------------------------------------------- |
+| `k create -f file.yaml`   | Creates the defined resources of a file, imperative manner |
+| `k apply -f file.yaml`    | Creates defined resources of a file, declarative manner    |
+| `k create ns <namespace>` | Creates a namespace                                        | 

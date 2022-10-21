@@ -1,6 +1,6 @@
 They are processes that monitor k8s objects and respond accordingly.
 
-#kubernetes #kubectl #k8s 
+#kubernetes #kubectl
 
 # Replication Controller
 

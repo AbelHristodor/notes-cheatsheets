@@ -1,6 +1,6 @@
 *General Kubernetes architecture recap*
 
-#kubernetes #kubectl #k8s #architecture
+#kubernetes #kubectl #architecture
 
 ## Node (Worker)
 Machine, physical or virtual where kubernetes is install. It is a worker machine so it will contain your running application.
