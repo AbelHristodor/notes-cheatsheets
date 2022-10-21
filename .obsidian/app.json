@@ -2,5 +2,6 @@
   "tabSize": 2,
   "showLineNumber": true,
   "rightToLeft": false,
-  "spellcheck": true
+  "spellcheck": true,
+  "readableLineLength": true
 }

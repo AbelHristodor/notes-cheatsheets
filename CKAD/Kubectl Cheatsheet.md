@@ -42,14 +42,14 @@ export KUBECONFIG=~/.kube/kube-config-1.yml:~/.kube/kube-config-N.yml
 
 ### Creation
 
-| Command                                                                                                       | Description                                                |     |
-| ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| `k create -f file.yaml`                                                                                       | Creates the defined resources of a file, imperative manner |     |
-| `k apply -f file.yaml`                                                                                        | Creates defined resources of a file, declarative manner    |     |
-| `k create ns <namespace>`                                                                                     | Creates a namespace                                        |     |
-| `k run <pod_name> --image=<pod_image> --dry-run=client -o yaml`                                               | Generates pod yaml file without creating it                |     |
-| `k create deploy <pod_name> --image=<pod_image>`                                                              | Creates deployment                                         |     |
-| `k create deploy <pod_name> --image=<pod_image> --replicas=<replicas> --dry-run=client -o yaml`               | Generates deploy yaml file without creating it             |     |
-| `k expose pod <pod_name> --port=<port> --name <svc_name> type=<NodePort, ClusterIP> --dry-run=client -o yaml` | Generates yaml file for svc                                |     |
-|                                                                                                               |                                                            |     |
+| Command                                                                                                       | Description                                                       |     |
+| ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| `k create -f file.yaml`                                                                                       | Creates the defined resources of a file, imperative manner        |     |
+| `k apply -f file.yaml`                                                                                        | Creates defined resources of a file, declarative manner           |     |
+| `k create ns <namespace>`                                                                                     | Creates a namespace                                               |     |
+| `k run <pod_name> --image=<pod_image> --dry-run=client -o yaml`                                               | Generates pod yaml file without creating it                       |     |
+| `k create deploy <pod_name> --image=<pod_image>`                                                              | Creates deployment                                                |     |
+| `k create deploy <pod_name> --image=<pod_image> --replicas=<replicas> --dry-run=client -o yaml`               | Generates deploy yaml file without creating it                    |     |
+| `k expose pod <pod_name> --port=<port> --name <svc_name> type=<NodePort, ClusterIP> --dry-run=client -o yaml` | Generates yaml file for svc                                       |     |
+| `k run <pod_name> --image=<image> --port=<port> --expose`                                                     | Creates pod and exposes it with port and type=ClusterIP (default) |    |
 
