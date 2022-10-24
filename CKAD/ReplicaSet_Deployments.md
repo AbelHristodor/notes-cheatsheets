@@ -1,6 +1,6 @@
 They are processes that monitor k8s objects and respond accordingly.
 
-#kubernetes #kubectl #k8s 
+#kubernetes #kubectl
 
 # Replication Controller
 
@@ -59,5 +59,33 @@ spec:
 ```
 Why `selector` field? Because it can handle pods that aren't directly created by the replicaset. E.g. pods created before implementing the replicaSet. It is not mandatory to set it.
 
-# Labels and Selectors
+## Labels and Selectors
 Labels allow ReplicaSet to understand which pods to monitor. 
+
+# Deployments
+A deployment allows us to scale, to reach HA in our cluster, to roll updates/downgrades all within one single resource. It basically is an upgraded version of ReplicaSet. In fact when creating a new deployment, it also creates a ReplicaSet.
+
+Example:
+```yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+	name: myapp-deploy
+	labels:
+		name: myapp
+		type: frontend
+spec:
+	selector:
+		matchLabels:
+			type: frontend
+	replicas: 3
+	template:
+		metadata:
+			name: myapp-pod
+			labels: myapp
+			type: frontend-pod
+		spec:
+			containers:
+			 - name: nginx-container
+				 image: nginx
+```

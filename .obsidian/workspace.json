@@ -18,8 +18,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a4fb2d001f17409",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e9d7da0c60619a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CKAD/Kubectl Cheatsheet.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd9858b790c5ef12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CKAD/Kubectl Cheatsheet.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CKAD/Kubectl Cheatsheet.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CKAD/Kubectl Cheatsheet.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -140,8 +173,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4e016b7291f2953e",
+  "active": "fd9858b790c5ef12",
   "lastOpenFiles": [
+    "CKAD/Kubectl Cheatsheet.md",
+    "conflict-files-obsidian-git.md",
     "CKAD/ReplicaSet.md",
     "CKAD/Kubernetes Recap.md"
   ]

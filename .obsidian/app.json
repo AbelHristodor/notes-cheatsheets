@@ -1,3 +1,9 @@
 {
-  "tabSize": 2
+  "tabSize": 2,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "spellcheck": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": false
 }
