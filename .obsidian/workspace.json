@@ -15,6 +15,7 @@
               "state": {
                 "file": "CKAD/ReplicaSet_Deployments.md",
                 "mode": "preview",
+                "backlinks": true,
                 "source": false
               }
             }
