@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CKAD/ReplicaSet_Deployments.md",
+                "file": "CKAD/Kubectl Cheatsheet.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CKAD/ReplicaSet_Deployments.md",
+                "file": "CKAD/Kubectl Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CKAD/ReplicaSet_Deployments.md",
+                "file": "CKAD/Kubectl Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CKAD/ReplicaSet_Deployments.md"
+                "file": "CKAD/Kubectl Cheatsheet.md"
               }
             }
           }
@@ -139,11 +139,11 @@
   },
   "active": "ad8d3acae65607a8",
   "lastOpenFiles": [
+    "CKAD/Docker.md",
+    "CKAD/ReplicaSet_Deployments.md",
     "CKAD/Namespaces.md",
     "CKAD/Kubernetes Recap.md",
     "CKAD/Kubectl Cheatsheet.md",
-    "CKAD/ReplicaSet_Deployments.md",
-    "CKAD/Docker.md",
     "conflict-files-obsidian-git.md",
     "CKAD/ReplicaSet.md"
   ]
