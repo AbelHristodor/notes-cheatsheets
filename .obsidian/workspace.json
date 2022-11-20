@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "40dfb95774220a00",
+        "id": "65cbe8acd16875e5",
         "type": "tabs",
         "children": [
           {
-            "id": "ad8d3acae65607a8",
+            "id": "a7634e1855c3b048",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CKAD/Kubectl Cheatsheet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CKAD/Kubectl Cheatsheet.md",
+                "file": "_assets/K8s_Architecture_2.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CKAD/Kubectl Cheatsheet.md",
+                "file": "_assets/K8s_Architecture_2.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CKAD/Kubectl Cheatsheet.md"
+                "file": "_assets/K8s_Architecture_2.png"
               }
             }
           }
@@ -137,13 +132,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ad8d3acae65607a8",
+  "active": "a70b9cc4759ba9c4",
   "lastOpenFiles": [
+    "CKAD/Kubernetes Recap.md",
+    "CKAD/Kubectl Cheatsheet.md",
     "CKAD/Docker.md",
     "CKAD/ReplicaSet_Deployments.md",
     "CKAD/Namespaces.md",
-    "CKAD/Kubernetes Recap.md",
-    "CKAD/Kubectl Cheatsheet.md",
     "conflict-files-obsidian-git.md",
     "CKAD/ReplicaSet.md"
   ]
