@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "99477ad8f0d1d785",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,12 +137,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "99477ad8f0d1d785",
+  "active": "ad8d3acae65607a8",
   "lastOpenFiles": [
+    "CKAD/Namespaces.md",
     "CKAD/Kubernetes Recap.md",
     "CKAD/Kubectl Cheatsheet.md",
     "CKAD/ReplicaSet_Deployments.md",
-    "CKAD/Namespaces.md",
+    "CKAD/Docker.md",
     "conflict-files-obsidian-git.md",
     "CKAD/ReplicaSet.md"
   ]
