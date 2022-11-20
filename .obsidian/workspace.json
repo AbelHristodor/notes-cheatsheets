@@ -11,8 +11,13 @@
             "id": "a7634e1855c3b048",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HTTPS Status codes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_assets/K8s_Architecture_2.png",
+                "file": "HTTPS Status codes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_assets/K8s_Architecture_2.png",
+                "file": "HTTPS Status codes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_assets/K8s_Architecture_2.png"
+                "file": "HTTPS Status codes.md"
               }
             }
           }
@@ -132,13 +137,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a70b9cc4759ba9c4",
+  "active": "a7634e1855c3b048",
   "lastOpenFiles": [
-    "CKAD/Kubernetes Recap.md",
+    "Markdown Cheatsheet.md",
+    "HTTPS Status codes.md",
     "CKAD/Kubectl Cheatsheet.md",
-    "CKAD/Docker.md",
-    "CKAD/ReplicaSet_Deployments.md",
+    "CKAD/Kubernetes Recap.md",
     "CKAD/Namespaces.md",
+    "CKAD/ReplicaSet_Deployments.md",
+    "_assets/K8s_Architecture_2.png",
+    "CKAD/Docker.md",
     "conflict-files-obsidian-git.md",
     "CKAD/ReplicaSet.md"
   ]
