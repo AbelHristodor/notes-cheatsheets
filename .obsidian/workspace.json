@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "65cbe8acd16875e5",
+        "id": "f7aadfa50db001fc",
         "type": "tabs",
         "children": [
           {
-            "id": "a7634e1855c3b048",
+            "id": "320539bcd575bd89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTPS Status codes.md",
+                "file": "Java/Introduction to Java.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3d41fb0bc4892ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/The java.lang.String class.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTPS Status codes.md",
+                "file": "Java/Introduction to Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTTPS Status codes.md",
+                "file": "Java/Introduction to Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,28 +139,37 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTPS Status codes.md"
+                "file": "Java/Introduction to Java.md"
               }
             }
+          },
+          {
+            "id": "8486c488e3f1d753",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 292.5,
     "collapsed": true
   },
-  "active": "a7634e1855c3b048",
+  "active": "320539bcd575bd89",
   "lastOpenFiles": [
-    "Markdown Cheatsheet.md",
+    "Java/The java.lang.String class.md",
+    "Java/Introduction to Java.md",
     "HTTPS Status codes.md",
+    "Markdown Cheatsheet.md",
     "CKAD/Kubectl Cheatsheet.md",
     "CKAD/Kubernetes Recap.md",
     "CKAD/Namespaces.md",
     "CKAD/ReplicaSet_Deployments.md",
     "_assets/K8s_Architecture_2.png",
-    "CKAD/Docker.md",
-    "conflict-files-obsidian-git.md",
-    "CKAD/ReplicaSet.md"
+    "CKAD/Docker.md"
   ]
 }
