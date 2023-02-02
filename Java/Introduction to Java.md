@@ -142,4 +142,4 @@ class Main {
 
 *source: GeekForGeeks.com*
 
-Next [[The java.lang.String class]]
+Next: [[Variables]]
