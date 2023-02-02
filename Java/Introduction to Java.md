@@ -1,6 +1,9 @@
 #java #programming 
 
 ---
+# Packages
+
+
 # Object Oriented Programming
 OOP refers to languages that use *objects* in programming as a *primary source* to *implement what is to happen in the code*. It aims to implement real-world entities like inheritance, hiding, polymorphism in programming. Its main objective is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function.
 
