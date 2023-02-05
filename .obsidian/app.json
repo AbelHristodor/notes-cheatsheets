@@ -3,7 +3,7 @@
   "showLineNumber": true,
   "rightToLeft": false,
   "spellcheck": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "strictLineBreaks": false,
   "showFrontmatter": false,
   "promptDelete": false
