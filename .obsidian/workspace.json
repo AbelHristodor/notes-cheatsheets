@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Introduction to Java.md",
+                "file": "Java/The java.lang.String class.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "e738ca89b9e4c5aa",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 209.5,
+    "collapsed": true
   },
   "right": {
     "id": "7d6416980086489a",
@@ -97,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Introduction to Java.md",
+                "file": "Java/The java.lang.String class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Introduction to Java.md",
+                "file": "Java/The java.lang.String class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Introduction to Java.md"
+                "file": "Java/The java.lang.String class.md"
               }
             }
           },
@@ -168,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e738ca89b9e4c5aa",
+  "active": "8bbb883c8f0cf0fe",
   "lastOpenFiles": [
     "Java/Variables.md",
     "Java/The java.lang.String class.md",
