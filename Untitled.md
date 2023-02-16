@@ -1,6 +1,7 @@
 
 ## 1
-Create:
+Create --> Crea la relazione e i nodi se non esistono
+- OpType = CREATE
 - Entity []
 - UserId
 - UserProperties (e.g. number_interactions as score )
@@ -8,17 +9,27 @@ Create:
 - NodeProperties ()
 - RelationshipType (e.g. 'likes', 'bookmarks') e.g. VERBO
 - RelationshipProperties []
-- OpType = CREATE
 
 Utente ha partecipato al contest
 
-
 ## 2
-
-DELETE:
+DELETE --> Cancella solo la relazione tra nodo e relationship
 Entity = RELATIONSHIP
 OpType = DELETE
 UserId
 NodeType
 NodeId
 RelationshipType ('likes')
+
+DELETE NODE --> Cancella il nodo
+Entity = NODE
+OpType = DELETE
+NodeType
+NodeId
+
+## 3
+UPDATE --> Se esiste il nodo, lo aggiorno se no lo creo. Crea un nodo senza relazioni
+NodeType
+NodeId
+NodeProperties
+
