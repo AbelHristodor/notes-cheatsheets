@@ -8,8 +8,17 @@ Create:
 - NodeProperties ()
 - RelationshipType (e.g. 'likes', 'bookmarks') e.g. VERBO
 - RelationshipProperties []
+- OpType = CREATE
 
 Utente ha partecipato al contest
 
 
 ## 2
+
+DELETE:
+Entity = RELATIONSHIP
+OpType = DELETE
+UserId
+NodeType
+NodeId
+RelationshipType ('likes')
