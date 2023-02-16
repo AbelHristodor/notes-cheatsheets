@@ -2,11 +2,14 @@
 ## 1
 Create --> Crea la relazione e i nodi se non esistono
 - OpType = CREATE
-- Entity []
-- UserId
-- UserProperties (e.g. number_interactions as score )
+- Entity = RELATIONSHIP
+- UserProperties (e.g. number_interactions as score ) {
+-      id
+- }
 - NodeType [model_name ] Recipe  | Post | Collection | Contest
-- NodeProperties ()
+- NodeProperties (
+-     id
+- )
 - RelationshipType (e.g. 'likes', 'bookmarks') e.g. VERBO
 - RelationshipProperties []
 
