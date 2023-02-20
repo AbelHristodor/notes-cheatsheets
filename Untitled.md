@@ -36,3 +36,18 @@ NodeType
 NodeId
 NodeProperties
 
+
+
+
+
+# DNS
+- Linkare Cloudflare ai DNS di AWS
+```
+ns-1802.awsdns-33.co.uk.
+ns-1484.awsdns-57.org.
+ns-1.awsdns-00.com.
+ns-870.awsdns-44.net.
+```
+- Emanare certificato SSL AWS
+- Aggiungere il certificato agli Ingress dell'infrastruttura
+- Cambiare gli hostname negli ingress
