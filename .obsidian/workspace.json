@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5ae403725a09bce2",
+        "id": "0511bb538f13eba1",
         "type": "tabs",
         "children": [
           {
-            "id": "95d94faf981de94f",
+            "id": "6085acfebe4fe025",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CKAD/Chapters/Extra.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CKAD/Chapters/Extra.md",
+                "file": "HTTPS Status codes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CKAD/Chapters/Extra.md",
+                "file": "HTTPS Status codes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CKAD/Chapters/Extra.md"
+                "file": "HTTPS Status codes.md"
               }
             }
           },
@@ -157,12 +152,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95d94faf981de94f",
+  "active": "a70b9cc4759ba9c4",
   "lastOpenFiles": [
-    "CKAD/README.md",
-    "CKAD/Chapters/Extra.md",
-    "Untitled.md",
     "Markdown Cheatsheet.md",
+    "Untitled.md",
+    "CKAD/Chapters/Extra.md",
+    "CKAD/README.md",
     "HTTPS Status codes.md",
     "Java/Variables.md",
     "Java/The java.lang.String class.md",
