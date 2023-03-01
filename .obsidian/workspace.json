@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0511bb538f13eba1",
+        "id": "80477cf2f8b64aaf",
         "type": "tabs",
         "children": [
           {
-            "id": "6085acfebe4fe025",
+            "id": "6b6a7a5d76bf7e78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CKA/1. Core Concepts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 209.5,
+    "collapsed": true
   },
   "right": {
     "id": "7d6416980086489a",
@@ -81,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTPS Status codes.md",
+                "file": "CKA/1. Core Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTTPS Status codes.md",
+                "file": "CKA/1. Core Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTPS Status codes.md"
+                "file": "CKA/1. Core Concepts.md"
               }
             }
           },
@@ -152,17 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a70b9cc4759ba9c4",
+  "active": "6b6a7a5d76bf7e78",
   "lastOpenFiles": [
     "Markdown Cheatsheet.md",
-    "Untitled.md",
-    "CKAD/Chapters/Extra.md",
-    "CKAD/README.md",
-    "HTTPS Status codes.md",
-    "Java/Variables.md",
-    "Java/The java.lang.String class.md",
-    "Java/Introduction to Java.md",
-    "CKAD/ReplicaSet_Deployments.md",
-    "CKAD/Namespaces.md"
+    "CKA/1. Core Concepts.md",
+    "CKAD/Chapters/6. Services & Networking.md",
+    "CKA/Untitled.md",
+    "CKA/8. Networking.md",
+    "CKA/7. Storage.md",
+    "CKA/6. Security.md",
+    "CKA/5. Cluster Maintenance.md",
+    "CKA/4. Application Lifecycle Management.md",
+    "CKA/3. Logging & Monitoring.md"
   ]
 }
