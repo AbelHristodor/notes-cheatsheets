@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5,
-    "collapsed": true
+    "width": 209.5
   },
   "right": {
     "id": "7d6416980086489a",
@@ -160,15 +159,15 @@
   },
   "active": "6b6a7a5d76bf7e78",
   "lastOpenFiles": [
-    "Markdown Cheatsheet.md",
+    "_assets/K8s_Architecture_2.png",
+    "_assets/K8s_Architecture.png",
+    "README.md.md",
     "CKA/1. Core Concepts.md",
+    "Markdown Cheatsheet.md",
     "CKAD/Chapters/6. Services & Networking.md",
     "CKA/Untitled.md",
     "CKA/8. Networking.md",
     "CKA/7. Storage.md",
-    "CKA/6. Security.md",
-    "CKA/5. Cluster Maintenance.md",
-    "CKA/4. Application Lifecycle Management.md",
-    "CKA/3. Logging & Monitoring.md"
+    "CKA/6. Security.md"
   ]
 }
