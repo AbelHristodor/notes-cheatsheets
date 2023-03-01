@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "75af7036ea25c609",
+        "id": "5ae403725a09bce2",
         "type": "tabs",
         "children": [
           {
-            "id": "be67240fa5eef10f",
+            "id": "95d94faf981de94f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "CKAD/Chapters/Extra.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5,
-    "collapsed": true
+    "width": 209.5
   },
   "right": {
     "id": "7d6416980086489a",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "CKAD/Chapters/Extra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "CKAD/Chapters/Extra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "CKAD/Chapters/Extra.md"
               }
             }
           },
@@ -158,17 +157,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a70b9cc4759ba9c4",
+  "active": "95d94faf981de94f",
   "lastOpenFiles": [
-    "Java/The java.lang.String class.md",
-    "Java/Variables.md",
-    "Java/Introduction to Java.md",
-    "HTTPS Status codes.md",
+    "CKAD/README.md",
+    "CKAD/Chapters/Extra.md",
+    "Untitled.md",
     "Markdown Cheatsheet.md",
-    "CKAD/Kubectl Cheatsheet.md",
-    "CKAD/Kubernetes Recap.md",
-    "CKAD/Namespaces.md",
+    "HTTPS Status codes.md",
+    "Java/Variables.md",
+    "Java/The java.lang.String class.md",
+    "Java/Introduction to Java.md",
     "CKAD/ReplicaSet_Deployments.md",
-    "_assets/K8s_Architecture_2.png"
+    "CKAD/Namespaces.md"
   ]
 }
