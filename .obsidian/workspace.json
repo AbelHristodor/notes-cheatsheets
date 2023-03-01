@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "80477cf2f8b64aaf",
+        "id": "4ab4dab3fea633e4",
         "type": "tabs",
         "children": [
           {
-            "id": "6b6a7a5d76bf7e78",
+            "id": "a5e2bd481a878a6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CKA/1. Core Concepts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CKA/1. Core Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CKA/1. Core Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CKA/1. Core Concepts.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,17 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b6a7a5d76bf7e78",
+  "active": "a5e2bd481a878a6e",
   "lastOpenFiles": [
+    "CKA/README.md",
+    "CKAD/README.md",
+    "README.md",
+    "CKA/1. Core Concepts.md",
     "_assets/K8s_Architecture_2.png",
     "_assets/K8s_Architecture.png",
-    "README.md.md",
-    "CKA/1. Core Concepts.md",
     "Markdown Cheatsheet.md",
     "CKAD/Chapters/6. Services & Networking.md",
-    "CKA/Untitled.md",
     "CKA/8. Networking.md",
-    "CKA/7. Storage.md",
-    "CKA/6. Security.md"
+    "CKA/7. Storage.md"
   ]
 }
