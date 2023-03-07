@@ -14,24 +14,13 @@
               "type": "markdown",
               "state": {
                 "file": "CKA/1. Core Concepts.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "a389c68d3690804f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a389c68d3690804f",
+  "active": "a5e2bd481a878a6e",
   "lastOpenFiles": [
     "CKAD/Kubectl Cheatsheet.md",
     "CKA/README.md",
