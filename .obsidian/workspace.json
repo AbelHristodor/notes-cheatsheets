@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CKAD/Kubectl Cheatsheet.md",
+                "file": "CKA/1. Core Concepts.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "a389c68d3690804f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CKAD/Kubectl Cheatsheet.md",
+                "file": "CKA/1. Core Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CKAD/Kubectl Cheatsheet.md",
+                "file": "CKA/1. Core Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CKAD/Kubectl Cheatsheet.md"
+                "file": "CKA/1. Core Concepts.md"
               }
             }
           },
@@ -157,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5e2bd481a878a6e",
+  "active": "a389c68d3690804f",
   "lastOpenFiles": [
+    "CKAD/Kubectl Cheatsheet.md",
     "CKA/README.md",
     "CKAD/README.md",
     "README.md",
@@ -167,7 +179,6 @@
     "_assets/K8s_Architecture.png",
     "Markdown Cheatsheet.md",
     "CKAD/Chapters/6. Services & Networking.md",
-    "CKA/8. Networking.md",
-    "CKA/7. Storage.md"
+    "CKA/8. Networking.md"
   ]
 }
