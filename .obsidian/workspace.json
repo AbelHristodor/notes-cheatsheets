@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5,
-    "collapsed": true
+    "width": 209.5
   },
   "right": {
     "id": "7d6416980086489a",
@@ -158,8 +157,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5e2bd481a878a6e",
+  "active": "a70b9cc4759ba9c4",
   "lastOpenFiles": [
+    "_assets/deploys_rs.webp",
+    "Pasted image 20230307105136.png",
     "CKAD/Kubectl Cheatsheet.md",
     "CKA/README.md",
     "CKAD/README.md",
