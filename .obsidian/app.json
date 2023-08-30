@@ -6,5 +6,6 @@
   "readableLineLength": true,
   "strictLineBreaks": false,
   "showFrontmatter": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
