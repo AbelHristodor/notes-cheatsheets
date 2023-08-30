@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2338ff365744186f",
+        "id": "d2efd402444d79b4",
         "type": "tabs",
         "children": [
           {
-            "id": "7db096483d61f933",
+            "id": "2cec3a32a3bc27a7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled 2.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 2.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled 2.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -167,14 +156,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7db096483d61f933",
+  "active": "2cec3a32a3bc27a7",
   "lastOpenFiles": [
-    "30-08-2023.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
+    "Untitled.canvas",
+    "30-08-2023.md",
     "Software Engineering/Architectural Design Patterns.md",
     "Software Engineering/Design Patterns.md",
-    "Untitled.canvas",
     "Java/Introduction to Java.md",
     "Java/Variables.md",
     "Java/The java.lang.String class.md",
