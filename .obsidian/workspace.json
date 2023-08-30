@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bfa85174805b1147",
+        "id": "8065db0a20063def",
         "type": "tabs",
         "children": [
           {
-            "id": "afabe674d6a1e63f",
+            "id": "48379eb435099e68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Patterns.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#designpatterns",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Design Patterns.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,10 +157,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "afabe674d6a1e63f",
+  "active": "48379eb435099e68",
   "lastOpenFiles": [
+    "Software Engineering/Architectural Design Patterns.md",
+    "Software Engineering/Design Patterns.md",
+    "Untitled.canvas",
+    "Java/Introduction to Java.md",
+    "Java/Variables.md",
+    "Java/The java.lang.String class.md",
+    "Software Engineering",
     "_assets/PipeFilterDesign.png",
-    "Design Patterns.md",
     "_assets/MVC.png",
     "_assets/LayeredPattern.png",
     "_assets/Pasted image 20230307105136.png",

@@ -1,6 +1,8 @@
-#engineering
+#engineering #designpatterns
 
 ---
+# Architectural Design Patterns
+An **architectural pattern** is a general, reusable resolution to a commonly occurring problem in [software architecture](https://en.wikipedia.org/wiki/Software_architecture "Software architecture") within a given context. The architectural patterns address various issues in [software engineering](https://en.wikipedia.org/wiki/Software_engineering "Software engineering"), such as [computer hardware](https://en.wikipedia.org/wiki/Computer_hardware "Computer hardware") performance limitations, [high availability](https://en.wikipedia.org/wiki/High_availability "High availability") and minimization of a [business risk](https://en.wikipedia.org/wiki/Business_risk "Business risk"). Some architectural patterns have been implemented within [software frameworks](https://en.wikipedia.org/wiki/Software_framework "Software framework"). (source: [Wiki](https://en.wikipedia.org/wiki/Architectural_pattern))
 
 ## Model View Controller (MVC)
 The MVC pattern specifies that an application consists of a **data** model, **presentation** information and **control** information. It separates the view modules from the modules that interact with data.
@@ -53,3 +55,5 @@ When you try to connect to a web page, you make a *request* to a server that's l
 As the name suggests, it is made by two components **pipes** and **filters**. Filters perform transformations on data and process the input they receive. Pipes work as connectors between components, they transfer the transform (or soon-to-be transformed) data from one component to the other.
 
 ![[PipeFilterDesign.png]]
+
+Next: [[Design Patterns]]
