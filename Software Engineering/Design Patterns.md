@@ -38,7 +38,7 @@ print(singleton_instance_1 is singleton_instance_2)  # Outputs: True
 It's worth noting that while the Singleton pattern provides global access to a single instance, it can also introduce **global state**, which might make *testing* and *maintenance* more **challenging**. Therefore, its usage should be carefully considered based on the specific requirements of the application.
 
 ## Observer
-The Observer design pattern is a behavioral design pattern that establishes a one-to-many dependency between objects. In this pattern, when one object (called the subject) changes its state, all its dependents (observers) are notified and updated automatically. This allows the observers to react to changes in the subject's state without being tightly coupled to it.
+The Observer design pattern is a behavioral design pattern that establishes a one-to-many dependency between objects. In this pattern, when one *object* (called the subject) changes its state, all its *dependents* (observers) are notified and updated automatically. This allows the observers to react to changes in the subject's state without being tightly coupled to it.
 
 Key features:
 1. **Subject:** This is the object that maintains a list of its dependents (observers) and notifies them of any changes in its state. The subject typically provides methods to attach, detach, and notify observers.
@@ -86,10 +86,10 @@ subject.attach(observer2)
 subject.set_state("New State")
 ```
 
-The Observer pattern promotes loose coupling between subjects and observers, allowing for better scalability and maintainability in code. It's commonly used in scenarios where a change in one object's state needs to trigger actions in multiple other objects, such as in user interface components, event handling systems, and real-time data processing applications.
+The Observer pattern *promotes loose coupling between subjects and observers*, allowing for better scalability and maintainability in code. It's commonly used in scenarios where a change in one object's state needs to trigger actions in multiple other objects, such as in user interface components, event handling systems, and real-time data processing applications.
 
 ## Data Transfer Object (DTO)
-A Data Transfer Object (DTO) is a design pattern used in software engineering to efficiently transport data between different layers or components of an application. Its primary purpose is to encapsulate data and provide a way to transfer it between different parts of a system, often across different boundaries like network communication or database interactions. The DTO pattern aims to optimize data transmission by reducing the number of calls and amount of data exchanged.
+A Data Transfer Object (DTO) is a design pattern used in software engineering to *efficiently transport data* between different layers or components of an application. Its primary purpose is to encapsulate data and provide a *way to transfer it* between different parts of a system, often across different boundaries like network communication or database interactions. The DTO pattern aims to optimize data transmission *by reducing the number of calls and amount of data exchanged.*
 
 Key features of the Data Transfer Object (DTO) pattern:
 1. **Data Encapsulation:** DTOs are simple objects that contain data fields and have minimal or no behavior. They are used to represent data structures, often mimicking the structure of the underlying data source or the requirements of a particular use case.
@@ -121,7 +121,7 @@ DTOs are particularly useful in scenarios where:
 However, it's important to use DTOs judiciously and not overly complicate the design of your application. In some cases, especially in smaller applications, the overhead of creating DTOs might outweigh the benefits.
 
 ## Adapter
-The Adapter design pattern is a structural pattern that allows objects with incompatible interfaces to work together. It acts as a bridge between two incompatible interfaces, enabling them to collaborate without modifying their source code.
+The Adapter design pattern is a structural pattern that allows *objects with incompatible interfaces to work together*. It acts as a bridge between two incompatible interfaces, enabling them to collaborate without modifying their source code.
 
 Key components:
 - **Target:** Defines the interface that the client code uses to interact with.
@@ -131,7 +131,7 @@ Key components:
 E.g.: Imagine you have an existing class that calculates areas in square meters, and you want to use it in a new system that requires areas in square feet. An adapter can be created to convert between the two units.
 
 ## Template
-The Template design pattern is a behavioral pattern that defines the structure of an algorithm but allows its steps to be overridden by subclasses. It promotes reusability and code consistency by providing a template or skeleton for an algorithm while allowing specific steps to be implemented by derived classes.
+The Template design pattern is a behavioral pattern that *defines the structure of an algorithm but allows its steps to be overridden by subclasses*. It promotes reusability and code consistency by providing a template or skeleton for an algorithm while allowing specific steps to be implemented by derived classes.
 
 Key components:
 - **AbstractClass:** Defines the template method, which consists of a series of method calls and abstract steps.
@@ -140,7 +140,7 @@ Key components:
 E.g.: In a game, you might have a template for character creation. The template method outlines the general steps like choosing a character model, setting attributes, and adding equipment. Subclasses for different character types (warrior, mage, archer) provide concrete implementations for each step.
 
 ## Decorator
-The Decorator design pattern is a structural pattern that allows behavior to be added to individual objects, either statically or dynamically, without affecting the behavior of other objects from the same class. It's an alternative to subclassing for extending functionality.
+The Decorator design pattern is a structural pattern that *allows behavior to be added to individual objects*, either statically or dynamically, without affecting the behavior of other objects from the same class. It's an alternative to subclassing for extending functionality.
 
 Key components:
 
@@ -152,22 +152,22 @@ Key components:
 E.g.: Consider a text editor. The Component might be a basic text element, while the Decorators could add functionality like bold formatting, italics, and underline.
 
 ## Facade
-The Facade design pattern is a structural pattern that provides a simplified interface to a complex system of classes, making it easier for clients to interact with the system. It acts as a higher-level interface that hides the complexities of the subsystem and presents a unified interface for the client.
+The Facade design pattern is a structural pattern that *provides a simplified interface to a complex system of classes,* making it easier for clients to interact with the system. It acts as a higher-level interface that hides the complexities of the subsystem and presents a unified interface for the client.
 
 E.g.: Consider a multimedia player that plays audio and video files. The multimedia player might internally utilize different subsystems for decoding audio and video formats. The Facade pattern can create a simplified interface that encapsulates the complexity of interacting with these subsystems, providing methods like `playAudio()` and `playVideo()`.
 ## Factory
-The Factory design pattern is a creational pattern that provides an interface for creating objects in a super class, but allows subclasses to alter the type of objects that will be created. It abstracts the process of object creation and decouples the client code from the specifics of the created objects.
+The Factory design pattern is a creational pattern that *provides an interface for creating objects in a super class, but allows subclasses to alter the type of objects that will be created*. It abstracts the process of object creation and decouples the client code from the specifics of the created objects.
 
 E.g.: A GUI framework might use a factory pattern to create various types of UI elements like buttons, text fields, and checkboxes. The factory could have methods like `createButton()`, `createTextField()`, etc., and specific implementations could create different styles of these elements.
 ## Iterator
-The Iterator design pattern is a behavioral pattern that provides a way to access elements of a collection (such as an array or a list) sequentially without exposing the underlying structure of the collection. It separates the iteration logic from the collection itself.
+The Iterator design pattern is a behavioral pattern that provides a way to *access elements of a collection* (such as an array or a list) sequentially without exposing the underlying structure of the collection. It separates the iteration logic from the collection itself.
 
 E.g.: In programming languages, iterators are commonly used to traverse elements of arrays or collections. The iterator pattern encapsulates the traversal logic, allowing clients to iterate over the elements without needing to understand the internal structure of the collection.
 ## Abstract Factory
-The Abstract Factory design pattern is a creational pattern that provides an interface for creating families of related or dependent objects without specifying their concrete classes. It's used when a system must be independent of how its objects are created, composed, and represented.
+The Abstract Factory design pattern is a creational pattern that provides an interface for *creating families of related or dependent objects* without specifying their concrete classes. It's used when a system must be independent of how its objects are created, composed, and represented.
 
 E.g.: Consider a user interface framework that needs to support different themes (e.g., light and dark). The abstract factory pattern could define interfaces for creating buttons, text fields, and other UI elements, and concrete implementations of the factory would create elements with a consistent theme.
 ## Proxy
-The Proxy design pattern is a structural pattern that provides a surrogate or placeholder for another object to control its access. It acts as a intermediary between the client and the real object, adding an extra layer of control.
+The Proxy design pattern is a structural pattern that *provides a surrogate or placeholder for another object* to control its access. It acts as a intermediary between the client and the real object, adding an extra layer of control.
 
 E.g.: A classic use of the proxy pattern is in virtual proxy scenarios, such as lazy loading of heavy resources. For instance, a virtual proxy for an image might only load the actual image data from disk when requested to display, thus optimizing memory usage.

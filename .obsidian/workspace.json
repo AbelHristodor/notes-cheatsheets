@@ -11,8 +11,13 @@
             "id": "2cec3a32a3bc27a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/Design Patterns.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 209.5,
+    "collapsed": true
   },
   "right": {
     "id": "7d6416980086489a",
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software Engineering/Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Software Engineering/Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Software Engineering/Design Patterns.md"
+              }
             }
           },
           {
@@ -158,11 +168,11 @@
   },
   "active": "2cec3a32a3bc27a7",
   "lastOpenFiles": [
+    "Software Engineering/Architectural Design Patterns.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "30-08-2023.md",
-    "Software Engineering/Architectural Design Patterns.md",
     "Software Engineering/Design Patterns.md",
     "Java/Introduction to Java.md",
     "Java/Variables.md",
