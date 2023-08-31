@@ -9,11 +9,11 @@ The MVC pattern specifies that an application consists of a **data** model, **pr
 
 ![[MVC.png]]
 ### Model
-The model contains only the application data, it does not have any kind of logic or business logic. It just manages data and how the communication with the database.
+The model contains<mark style="background: #FFB86CA6;"> only the application data, it does not have any kind of logic</mark> or business logic. It just manages data and how the communication with the database.
 ### View
-The view defines the layer that handles how data coming from the model is displayed to the user. It knows how to communicate with the model layer but does not manipulate it, it simply displays information to the user
+The view defines the layer that <mark style="background: #FFB86CA6;">handles how data coming from the model is displayed</mark> to the user. It knows how to communicate with the model layer but does not manipulate it, it simply displays information to the user
 ### Controller
-The controller sits between the model and the views, it is responsible for manipulating data, for handling events, errors and it's where the business logic is located.
+The controller sits between the model and the views, it is responsible for <mark style="background: #FFB86CA6;">manipulating data, for handling events, errors a</mark>nd it's where the business logic is located.
 
 ### Pros and Cons
 **Pros:**
@@ -26,26 +26,26 @@ The controller sits between the model and the views, it is responsible for manip
 - Higher level of abstraction.
 
 ## Layered
-It's the easiest pattern and probably most used since it matches the traditional IT communication (TCP/IP protocol) and organizational structures.
+It's the easiest pattern and probably most used since it <mark style="background: #FFF3A3A6;">matches the traditional IT communication</mark> (TCP/IP protocol) and organizational structures.
 Components are organized into horizontal layers, each layers performing a special role within the application. There isn't a standard number of layers but generally we can find 4 standard layers: *presentation*,  *business*, *persistence* and *database*. 
 Each of these layers have their own role and responsibility, forming also a layer of abstraction around the work that needs to be done. Also each layer offers some kind of services that the layers above and under can use to interface and communicate with each other.
 
 ![[LayeredPattern.png]]
-Each layer can be open or closed. If it's closed then every request *must* go through that layer, on the other hand, if it's open then a layer can be skipped. 
+Each layer can be <mark style="background: #FFF3A3A6;">open or closed</mark>. If it's closed then every request *must* go through that layer, on the other hand, if it's open then a layer can be skipped. 
 
 ## Repository
-It's a pattern that provides a way to manage data access logic in a centralized location. It separates the logic that retrieves the data and maps it to the entity model from the business logic that operates on the model. The primary objective of the repository pattern is to simplify as much as possible the *data access code* allowing to handles massive amounts of data in an efficient way.
+It's a pattern that provides a way to<mark style="background: #FFF3A3A6;"> manage data access logic</mark> in a centralized location. It separates the logic that retrieves the data and maps it to the entity model from the business logic that operates on the model. The primary objective of the repository pattern is to <mark style="background: #FFF3A3A6;">simplify as much as possible the *data access code*</mark> allowing to handles massive amounts of data in an efficient way.
 It is made out of three components:
 - Repository interface
 - Repository Implementation
 - Repository Model
 
 ### Interface
-Defines the operations that can be performed on the entity model, usually consisting of CRUD operations.
+<mark style="background: #FFF3A3A6;">Defines the operations</mark> that can be performed on the entity model, usually consisting of CRUD operations.
 ### Implementation
-Represents the actual implementation of the interface and is the one responsible for the actual data access operations
+Represents the <mark style="background: #FFF3A3A6;">actual implementation</mark> of the interface and is the one responsible for the actual data access operations
 ### Entity Model
-Represents the business entities of the app. It typically consists of one or more classes that map to database tables.
+Represents the business entities of the app. It typically consists of one or more classes that <mark style="background: #FFF3A3A6;">map to database tables.</mark>
 
 ## Client Server
 It represents a distributed application structure that facilitates communication between many clients and servers. Servers are the ones that wait for clients to make *requests* to them, and then they answer with a *response*. This is typical of the way internet works. 

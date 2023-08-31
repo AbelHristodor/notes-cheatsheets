@@ -2,15 +2,15 @@
 
 ---
 # Design patterns
-In [software engineering](https://en.wikipedia.org/wiki/Software_engineering), a **software design pattern** is a general, [reusable](https://en.wikipedia.org/wiki/Reusability "Reusability") solution to a commonly occurring problem within a given context in [software design](https://en.wikipedia.org/wiki/Software_design "Software design"). It is not a finished design that can be transformed directly into [source](https://en.wikipedia.org/wiki/Source_code "Source code") or [machine code](https://en.wikipedia.org/wiki/Machine_code "Machine code"). Rather, it is a description or template for how to solve a problem that can be used in many different situations. Design patterns are formalized [best practices](https://en.wikipedia.org/wiki/Best_practice "Best practice") that the programmer can use to solve common problems when designing an application or system. (source: [Wiki](https://en.wikipedia.org/wiki/Software_design_pattern))
+In [software engineering](https://en.wikipedia.org/wiki/Software_engineering), a **software design pattern** is a general, <mark style="background: #FFF3A3A6;">[reusable](https://en.wikipedia.org/wiki/Reusability "Reusability") solution to a commonly occurring problem within a given context</mark> in [software design](https://en.wikipedia.org/wiki/Software_design "Software design"). It is not a finished design that can be transformed directly into [source](https://en.wikipedia.org/wiki/Source_code "Source code") or [machine code](https://en.wikipedia.org/wiki/Machine_code "Machine code"). Rather, it is a description or template for how to solve a problem that can be used in many different situations. Design patterns are formalized [best practices](https://en.wikipedia.org/wiki/Best_practice "Best practice") that the programmer can use to solve common problems when designing an application or system. (source: [Wiki](https://en.wikipedia.org/wiki/Software_design_pattern))
 ## Singleton
-The singleton design pattern is a design pattern that ensures a class has only one single instance and provides a global point of access to that instance. It is often used when you need to have a single instance of a class that controls some resource  or behavior throughout the entire lifetime of an application.
+The singleton design pattern is a design pattern that ensures a <mark style="background: #FFF3A3A6;">class has only one single instance</mark> and provides a <mark style="background: #ABF7F7A6;">global point of access to that instance</mark>. It is often used when you need to have a single instance of a class that controls some resource  or behavior throughout the entire lifetime of an application.
 
 Key features:
 1. **Single Instance:** The Singleton pattern guarantees that a class has only one instance. It achieves this by controlling the instantiation process, usually through a private constructor.    
 2. **Global Access:** The single instance created by the Singleton pattern is globally accessible. This means that any part of the codebase can access this instance without needing to create new instances or pass references around.
-3. **Lazy Initialization:** The Singleton instance is often created only when it's first needed, rather than during the application's startup. This approach is known as lazy initialization and helps conserve resources until the Singleton is actually required.
-4. **Thread Safety:** Singleton implementations need to ensure thread safety, especially in multi-threaded environments. This is because multiple threads might try to access or create the Singleton instance simultaneously. Common techniques for achieving thread safety include using locks, synchronization, or employing double-checked locking.
+3. **Lazy Initialization:** The Singleton instance i<mark style="background: #FFF3A3A6;">s often created only when it's first needed</mark>, rather than during the application's startup. This approach is known as lazy initialization and helps conserve resources until the Singleton is actually required.
+4. **Thread Safety:** Singleton <mark style="background: #FFF3A3A6;">implementations need to ensure thread safety, especially in multi-threaded environments</mark>. This is because multiple threads might try to access or create the Singleton instance simultaneously. Common techniques for achieving thread safety include using locks, synchronization, or employing double-checked locking.
 
 E.g.:
 ```python
@@ -38,11 +38,11 @@ print(singleton_instance_1 is singleton_instance_2)  # Outputs: True
 It's worth noting that while the Singleton pattern provides global access to a single instance, it can also introduce **global state**, which might make *testing* and *maintenance* more **challenging**. Therefore, its usage should be carefully considered based on the specific requirements of the application.
 
 ## Observer
-The Observer design pattern is a behavioral design pattern that establishes a one-to-many dependency between objects. In this pattern, when one *object* (called the subject) changes its state, all its *dependents* (observers) are notified and updated automatically. This allows the observers to react to changes in the subject's state without being tightly coupled to it.
+The Observer design pattern is a behavioral design pattern that establishes a<mark style="background: #FFF3A3A6;"> one-to-many dependency between objects</mark>. In this pattern, when one *object* (called the subject) changes its state, all its *dependents* (observers) are n<mark style="background: #FFF3A3A6;">otified and updated automatically</mark>. This allows the observers to react to changes in the subject's state without being tightly coupled to it.
 
 Key features:
-1. **Subject:** This is the object that maintains a list of its dependents (observers) and notifies them of any changes in its state. The subject typically provides methods to attach, detach, and notify observers.
-2. **Observer:** The observer is the interface or base class that defines the update method. Concrete observer classes implement this method to receive updates from the subject. Observers are registered with the subject to receive notifications.
+1. **Subject:** This is the object that maintains a list of its dependents (observers) and notifies them of any changes in its state. The subject typically <mark style="background: #FFF3A3A6;">provides methods to attach, detach, and notify observers</mark>.
+2. **Observer:** The observer is the <mark style="background: #FFF3A3A6;">interface</mark> or base class that<mark style="background: #FFF3A3A6;"> defines the update method.</mark> Concrete observer classes implement this method to receive updates from the subject. Observers are registered with the subject to receive notifications.
 3. **Concrete Subject:** This is the actual subject object that holds the data and state that observers are interested in. It maintains a list of its observers and notifies them when its state changes.
 4. **Concrete Observer:** Concrete observer classes implement the observer interface or inherit from the observer base class. They register themselves with a subject to receive updates and implement the update method to define their response to changes in the subject's state.
 
@@ -89,7 +89,7 @@ subject.set_state("New State")
 The Observer pattern *promotes loose coupling between subjects and observers*, allowing for better scalability and maintainability in code. It's commonly used in scenarios where a change in one object's state needs to trigger actions in multiple other objects, such as in user interface components, event handling systems, and real-time data processing applications.
 
 ## Data Transfer Object (DTO)
-A Data Transfer Object (DTO) is a design pattern used in software engineering to *efficiently transport data* between different layers or components of an application. Its primary purpose is to encapsulate data and provide a *way to transfer it* between different parts of a system, often across different boundaries like network communication or database interactions. The DTO pattern aims to optimize data transmission *by reducing the number of calls and amount of data exchanged.*
+A Data Transfer Object (DTO) is a design pattern used in software engineering to<mark style="background: #FFF3A3A6;"> *efficiently transport data* between different layers or components</mark> of an application. Its primary purpose is to encapsulate data and provide a *way to transfer it* between different parts of a system, often across different boundaries like network communication or database interactions. The DTO pattern aims to <mark style="background: #FFF3A3A6;">optimize data transmission</mark> *by reducing the number of calls and amount of data exchanged.*
 
 Key features of the Data Transfer Object (DTO) pattern:
 1. **Data Encapsulation:** DTOs are simple objects that contain data fields and have minimal or no behavior. They are used to represent data structures, often mimicking the structure of the underlying data source or the requirements of a particular use case.
@@ -160,7 +160,7 @@ The Factory design pattern is a creational pattern that *provides an interface f
 
 E.g.: A GUI framework might use a factory pattern to create various types of UI elements like buttons, text fields, and checkboxes. The factory could have methods like `createButton()`, `createTextField()`, etc., and specific implementations could create different styles of these elements.
 ## Iterator
-The Iterator design pattern is a behavioral pattern that provides a way to *access elements of a collection* (such as an array or a list) sequentially without exposing the underlying structure of the collection. It separates the iteration logic from the collection itself.
+The Iterator design pattern is a behavioral pattern that provides a way t<mark style="background: #FFF3A3A6;">o *access elements of a collection* (such as an array or a list) sequentially without exposing the underlying structure of the collection.</mark> It separates the iteration logic from the collection itself.
 
 E.g.: In programming languages, iterators are commonly used to traverse elements of arrays or collections. The iterator pattern encapsulates the traversal logic, allowing clients to iterate over the elements without needing to understand the internal structure of the collection.
 ## Abstract Factory
