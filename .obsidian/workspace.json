@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Design Patterns.md",
+                "file": "Software Engineering/Architectural Design Patterns.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "d4783d4cf225d9d6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5,
-    "collapsed": true
+    "width": 209.5
   },
   "right": {
     "id": "7d6416980086489a",
@@ -95,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Design Patterns.md",
+                "file": "Software Engineering/Architectural Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Design Patterns.md",
+                "file": "Software Engineering/Architectural Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Design Patterns.md"
+                "file": "Software Engineering/Architectural Design Patterns.md"
               }
             }
           },
@@ -166,10 +176,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2cec3a32a3bc27a7",
+  "active": "d4783d4cf225d9d6",
   "lastOpenFiles": [
-    "Software Engineering/Architectural Design Patterns.md",
     "Software Engineering/Design Patterns.md",
+    "Software Engineering/Architectural Design Patterns.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
