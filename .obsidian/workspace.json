@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Architectural Design Patterns.md",
+                "file": "Software Engineering/Web Architectures.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "d4783d4cf225d9d6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 328
   },
   "right": {
     "id": "7d6416980086489a",
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Architectural Design Patterns.md",
+                "file": "Software Engineering/Web Architectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Architectural Design Patterns.md",
+                "file": "Software Engineering/Web Architectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Architectural Design Patterns.md"
+                "file": "Software Engineering/Web Architectures.md"
               }
             }
           },
@@ -155,6 +144,18 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "ab35ef2a9fe9556e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
         ],
@@ -176,10 +177,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d4783d4cf225d9d6",
+  "active": "2cec3a32a3bc27a7",
   "lastOpenFiles": [
-    "Software Engineering/Design Patterns.md",
     "Software Engineering/Architectural Design Patterns.md",
+    "Software Engineering/Web Architectures.md",
+    "Software Engineering/Design Patterns.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
