@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Web Architectures.md",
+                "file": "Software Engineering/Algorithms.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Web Architectures.md",
+                "file": "Software Engineering/Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Web Architectures.md",
+                "file": "Software Engineering/Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Web Architectures.md"
+                "file": "Software Engineering/Algorithms.md"
               }
             }
           },
@@ -180,37 +180,41 @@
   "active": "2cec3a32a3bc27a7",
   "lastOpenFiles": [
     "Software Engineering/Architectural Design Patterns.md",
-    "Software Engineering/Web Architectures.md",
     "Software Engineering/Design Patterns.md",
+    "Software Engineering/Web Architectures.md",
+    "HTTPS Status codes.md",
+    "README.md",
+    "Markdown Cheatsheet.md",
+    "Java/Variables.md",
+    "Java/The java.lang.String class.md",
+    "Java/Introduction to Java.md",
+    "CKAD/Chapters/Extra.md",
+    "CKAD/Chapters/7. State Persistence.md",
+    "CKAD/Chapters/6. Services & Networking.md",
+    "CKAD/Chapters/5. Pod Design.md",
+    "CKAD/Chapters/4. Observability.md",
+    "CKAD/Chapters/3. Multi-Container.md",
+    "CKAD/Chapters/2. Configuration.md",
+    "CKAD/Chapters/1. Core Concepts.md",
+    "CKAD/ReplicaSet_Deployments.md",
+    "CKAD/README.md",
+    "CKAD/Namespaces.md",
+    "CKAD/Kubernetes Recap.md",
+    "CKAD/Kubectl Cheatsheet.md",
+    "CKA/8. Networking.md",
+    "CKA/7. Storage.md",
+    "CKA/6. Security.md",
+    "CKA/3. Logging & Monitoring.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "30-08-2023.md",
-    "Java/Introduction to Java.md",
-    "Java/Variables.md",
-    "Java/The java.lang.String class.md",
     "Software Engineering",
     "_assets/PipeFilterDesign.png",
     "_assets/MVC.png",
     "_assets/LayeredPattern.png",
     "_assets/Pasted image 20230307105136.png",
-    "CKA/1. Core Concepts.md",
-    "CKA/2. Scheduling.md",
-    "CKAD/Chapters/3. Multi-Container.md",
-    "CKAD/Chapters/1. Core Concepts.md",
-    "CKAD/Chapters/2. Configuration.md",
-    "CKAD/Namespaces.md",
-    "CKAD/Kubectl Cheatsheet.md",
-    "CKAD/Kubernetes Recap.md",
-    "README.md",
-    "Markdown Cheatsheet.md",
-    "HTTPS Status codes.md",
     "_assets/deploys_rs.webp",
-    "CKA/README.md",
-    "CKAD/README.md",
     "_assets/K8s_Architecture_2.png",
-    "_assets/K8s_Architecture.png",
-    "CKAD/Chapters/6. Services & Networking.md",
-    "CKA/8. Networking.md"
+    "_assets/K8s_Architecture.png"
   ]
 }
