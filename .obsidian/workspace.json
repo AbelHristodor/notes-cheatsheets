@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Design Patterns.md",
+                "file": "CKAD/Kubectl Cheatsheet.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Design Patterns.md",
+                "file": "CKAD/Kubectl Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Design Patterns.md",
+                "file": "CKAD/Kubectl Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Design Patterns.md"
+                "file": "CKAD/Kubectl Cheatsheet.md"
               }
             }
           },
@@ -179,9 +179,24 @@
   },
   "active": "2cec3a32a3bc27a7",
   "lastOpenFiles": [
+    "CKAD/ReplicaSet_Deployments.md",
+    "CKAD/README.md",
+    "CKAD/Namespaces.md",
+    "CKAD/Kubernetes Recap.md",
+    "CKAD/Kubectl Cheatsheet.md",
+    "CKAD/Chapters/1. Core Concepts.md",
+    "CKA/README.md",
+    "CKA/8. Networking.md",
+    "CKA/7. Storage.md",
+    "CKA/6. Security.md",
+    "CKA/5. Cluster Maintenance.md",
+    "CKA/4. Application Lifecycle Management.md",
+    "CKA/3. Logging & Monitoring.md",
+    "CKA/2. Scheduling.md",
+    "CKA/1. Core Concepts.md",
+    "Software Engineering/Design Patterns.md",
     "Software Engineering/Architectural Design Patterns.md",
     "Software Engineering/Algorithms.md",
-    "Software Engineering/Design Patterns.md",
     "Software Engineering/Web Architectures.md",
     "HTTPS Status codes.md",
     "README.md",
@@ -190,21 +205,6 @@
     "Java/The java.lang.String class.md",
     "Java/Introduction to Java.md",
     "CKAD/Chapters/Extra.md",
-    "CKAD/Chapters/7. State Persistence.md",
-    "CKAD/Chapters/6. Services & Networking.md",
-    "CKAD/Chapters/5. Pod Design.md",
-    "CKAD/Chapters/4. Observability.md",
-    "CKAD/Chapters/3. Multi-Container.md",
-    "CKAD/Chapters/2. Configuration.md",
-    "CKAD/Chapters/1. Core Concepts.md",
-    "CKAD/ReplicaSet_Deployments.md",
-    "CKAD/README.md",
-    "CKAD/Namespaces.md",
-    "CKAD/Kubernetes Recap.md",
-    "CKAD/Kubectl Cheatsheet.md",
-    "CKA/8. Networking.md",
-    "CKA/7. Storage.md",
-    "CKA/6. Security.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
