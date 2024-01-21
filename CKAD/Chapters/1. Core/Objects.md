@@ -1,61 +1,14 @@
 ---
-title: Core Concepts
 Done: true
 tags:
-  - ckad
-  - kubernetes
-  - nodes
-  - replicaset
-  - deployment
   - pod
+  - deployment
+  - replicaset
   - namespace
-  - master-node
-  - kubectl
-created: 2024-01-21T12:25:00
-updated: 2024-01-21T18:55
+order: 2
+created: 2024-01-21T19:41
+updated: 2024-01-21T19:47
 ---
-# Cluster
-Is a set of nodes where, when one node fails, the other nodes take up the load. So, having multiple nodes also helps sharing workload.
-## Nodes
-Physical machines used to make up a cluster. They can be one of two types:
-- **worker nodes**
-- **master nodes**
-### Worker
-Machine, physical or virtual where *kubernetes* is installed. It is a worker machine so it will contain your running application.
-If your application goes down, it is better to have more than one node in order to implement zero-downtime or HA (High-Availability) in your cluster.
-
-They have the *kubelet-agent* that is responsible of communicating to the master node and do what the master says.
-### Master
-Is another node that is responsible of the orchestration of the nodes running on the cluster. It is the only node that has running inside the *kube-apiserver*, *etcd*, *controller*, *API scheduler*.
-# Components
-When installing k8s on a system, you actually install multiple components:
-- [[#API Server]]
-- [[#Etcd]]
-- [[#Kubelet]]
-- [[#Container Runtime]]
-- [[#Controller]]
-- [[#Scheduler]]
-
-### API Server
-Is the frontend for k8s. The users, CLIs such as `kubectl` (See [[Kubectl Cheatsheet]]) etc.. all interact w/ API Server in order to talk to k8s or the application installed in it.
-
-### Etcd
-It is a key-value store that holds all necessary information about nodes, master(s) and makes sure, by implementing locks that there are no conflicts between masters when there are more than one.
-
-### Scheduler
-It is responsible for distributing work or containers to different nodes. It looks for newly created containers and then it assigns them to different nodes or pods.
-
-### Controller
-Is the brain behind orchestration. It is responsible for understanding when nodes/pods/containers go down or need to be created and responds accordingly.
-
-### Container Runtime
-Software that allows to run our application in a containerized way. E.g. [Docker](www.docker.com), containerd or others.
-
-### Kubelet
-It is the agent running in each node and it is responsible of making sure containers are running as expected on the nodes. Also it communicates with the *kube-apiserver* on the master node sharing other information such as *status*, *health* and other which are all stored on the etcd in the master node.
-
-![[K8s_Architecture_2.png|Kubernetes architecture.]]
-<p align="center" style="font-style: italic">Kubernetes general architecture</p>
 # Pods
 Containers are encapsulated in a k8s object known as *pod*. The smallest object you can create in K8s representing a single instance of your application.
 
@@ -236,65 +189,3 @@ spec:
 			cpu: 10
 			memory: 10Gi
 ```
-
-# Imperative Commands
-While you would be working mostly the declarative way - using definition files, imperative commands can help in getting one-time tasks done quickly, as well as generate a definition template easily. This would help<mark style="background: #FFF3A3A6;"> save a considerable amount of time</mark> during your exams.
-
-Before we begin, familiarize yourself with the two options that can come in handy while working with the below commands:
-
-`--dry-run`: By default, as soon as the command is run, the resource will be created. If you simply want to test your command, use the `--dry-run=client` option. This will not create the resource. Instead, tell you whether the resource can be created and if your command is right.
-
-`-o yaml`: This will output the resource definition in YAML format on the screen.
-
-Use the above two in combination along with Linux output redirection to generate a resource definition file quickly, that you can then modify and create resources as required, instead of creating the files from scratch.
-
-`kubectl run nginx --image=nginx --dry-run=client -o yaml > nginx-pod.yaml`
-
-#### POD
-
-**Create an NGINX Pod**
-`kubectl run nginx --image=nginx`
-
-**Generate POD Manifest YAML file (-o yaml). Don't create it(--dry-run)**
-`kubectl run nginx --image=nginx --dry-run=client -o yaml`
-
-#### Deployment
-**Create a deployment**
-`kubectl create deployment --image=nginx nginx`
-
-**Generate Deployment YAML file (-o yaml). Don't create it(--dry-run)**
-`kubectl create deployment --image=nginx nginx --dry-run -o yaml`
-
-**Generate Deployment with 4 Replicas**
-`kubectl create deployment nginx --image=nginx --replicas=4`
-
-You can also scale deployment using the `kubectl scale` command.
-`kubectl scale deployment nginx --replicas=4`
-
-**Another way to do this is to save the YAML definition to a file and modify**
-kubectl create deployment nginx --image=nginx`--dry-run=client -o yaml > nginx-deployment.yaml`
-
-You can then update the YAML file with the replicas or any other field before creating the deployment.
-#### Service
-**Create a Service named redis-service of type ClusterIP to expose pod redis on port 6379**
-`kubectl expose pod redis --port=6379 --name redis-service --dry-run=client -o yaml`
-(This will automatically use the pod's labels as selectors)
-
-Or
-
-`kubectl create service clusterip redis --tcp=6379:6379 --dry-run=client -o yaml` (This will not use the pods' labels as selectors; instead it will assume selectors as **app=redis.** [You cannot pass in selectors as an option.](https://github.com/kubernetes/kubernetes/issues/46191) So it does not work well if your pod has a different label set. So generate the file and modify the selectors before creating the service)
-
-**Create a Service named nginx of type NodePort to expose pod nginx's port 80 on port 30080 on the nodes:**
-`kubectl expose pod nginx --port=80 --name nginx-service --type=NodePort --dry-run=client -o yaml`
-
-(This will automatically use the pod's labels as selectors, [but you cannot specify the node port](https://github.com/kubernetes/kubernetes/issues/25478). You have to generate a definition file and then add the node port in manually before creating the service with the pod.)
-
-Or
-
-`kubectl create service nodeport nginx --tcp=80:80 --node-port=30080 --dry-run=client -o yaml`
-
-(This will not use the pods' labels as selectors)
-
-Both the above commands have their own challenges. While one of it cannot accept a selector the other cannot accept a node port. I would recommend going with the `kubectl expose` command. If you need to specify a node port, generate a definition file using the same command and manually input the nodeport before creating the service.
-
-**Next:** [[2. Configuration]]

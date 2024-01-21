@@ -1,9 +1,10 @@
 ---
+tags:
+  - engineering
+  - networking
 created: 2024-01-11T15:04
-updated: 2024-01-11T15:04
+updated: 2024-01-21T19:38
 ---
-#http #networking
-
 ## Categories
 -   **1XX** status codes: Informational Requests
 -   **2XX** status codes: Successful Requests

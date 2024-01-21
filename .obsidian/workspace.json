@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a940030c5d363bd2",
+        "id": "d76f5b286411e22e",
         "type": "tabs",
         "children": [
           {
-            "id": "5036f57947f95c83",
+            "id": "293d7b429ec74742",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CKAD/Chapters/2. Configuration.md",
+                "file": "CKAD/Chapters/2. Configuration/2. Configuration.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#networking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CKAD/Chapters/2. Configuration.md",
+                "file": "CKAD/Chapters/2. Configuration/2. Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CKAD/Chapters/2. Configuration.md",
+                "file": "CKAD/Chapters/2. Configuration/2. Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CKAD/Chapters/2. Configuration.md"
+                "file": "CKAD/Chapters/2. Configuration/2. Configuration.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CKAD/Chapters/2. Configuration.md"
+                "file": "CKAD/Chapters/2. Configuration/2. Configuration.md"
               }
             }
           }
@@ -187,10 +187,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5036f57947f95c83",
+  "active": "293d7b429ec74742",
   "lastOpenFiles": [
-    "CKAD/Chapters/1. Core Concepts.md",
-    "CKAD/Chapters/2. Configuration.md",
+    "CKAD/Chapters/2. Configuration/Untitled.md",
+    "CKAD/Chapters/2. Configuration/2. Configuration.md",
+    "CKAD/Chapters/1. Core/Objects.md",
+    "CKAD/Chapters/1. Core/Cluster.md",
+    "CKAD/Chapters/1. Core/Imperative_Commands.md",
+    "CKAD/Chapters/2. Configuration",
+    "CKAD/Chapters/1. Core",
+    "HTTPS Status codes.md",
+    "Markdown Cheatsheet.md",
     "^Pod.md",
     "Software Engineering/Web Architectures.md",
     "Software Engineering/Design Patterns.md",
@@ -212,11 +219,6 @@
     "CKA/6. Security.md",
     "CKA/5. Cluster Maintenance.md",
     "CKA/4. Application Lifecycle Management.md",
-    "CKA/3. Logging & Monitoring.md",
-    "CKA/2. Scheduling.md",
-    "CKA/1. Core Concepts.md",
-    "HTTPS Status codes.md",
-    "README.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

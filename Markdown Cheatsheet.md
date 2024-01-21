@@ -1,10 +1,9 @@
 ---
+tags:
+  - cheatsheet
 created: 2024-01-11T15:04
-updated: 2024-01-11T15:04
+updated: 2024-01-21T19:37
 ---
-#markdown #cheatsheet
-
-
 Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
 
 Documentation: [Markdown Docs](https://daringfireball.net/projects/markdown/)

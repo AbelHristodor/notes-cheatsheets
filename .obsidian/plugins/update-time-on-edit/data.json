@@ -13,8 +13,8 @@
     "Software Engineering/Architectural Design Patterns.md": "39628b4309bae1c9ff5847cb929401b0dcb4fade450379d96bff0d5c42a960df",
     "Software Engineering/Algorithms.md": "2821c8632ae68bbe7379f42fbe07a3320c6b5f02260c9a2c2800744885ecec5e",
     "README.md": "b746bae4e25a3ae92db55c7a92255d40c200fc9e9b5f68d74d3d59525a699103",
-    "Markdown Cheatsheet.md": "292df87a4b2a1b4006bedd10e08b5448a1c617d99a598cf1a85c518b61b934b3",
-    "HTTPS Status codes.md": "28296ba1b4fc29069a7347e0cdecc1e08affd81627c534fbab8372221ee86868",
+    "Markdown Cheatsheet.md": "ff66adfff5aad1f2ab23df3a82ebba6294e17a0155072a9f892998a73356573e",
+    "HTTPS Status codes.md": "06ae1a239c7e099b18f916c047a88064ba093f349b605c89b37ee9ef650329fc",
     "CKAD/README.md": "c6efd2450d23edeb7d766e65c0ee7f265ba9a7c9459ed454b1142c40777b3be9",
     "CKAD/Kubectl Cheatsheet.md": "44937ba8590b64981e1e51116623766584658f02eb557450bae414fe3e2d1fee",
     "CKAD/Chapters/7. State Persistence.md": "474b5be6f20adabcb29b13dc2fbdb56e586bad870adfd749d207a1dbbe93fc56",
@@ -22,9 +22,11 @@
     "CKAD/Chapters/5. Pod Design.md": "6b4d87242f321aecdc2fd944580aa609b361225a181d58a601d278d26ea79060",
     "CKAD/Chapters/4. Observability.md": "b1a27603cc0433ec77dabfc23ea91bdfd5428b01a874bce7fb5b4b996a89cb6d",
     "CKAD/Chapters/3. Multi-Container.md": "f206c221db17bba72fccb0ac63ed517974c56b12e2ad0148420958be114b4596",
-    "CKAD/Chapters/2. Configuration.md": "4b3bd1980e4617e1dc6bfe02cb1362695652743aafd02b0de375677b68d24e5a",
-    "CKAD/Chapters/1. Core Concepts.md": "483984f43ed3d32c9caaf9471f0cf98ec9165d126ebfaba56bf9228d830d9eb0",
     "CKA/README.md": "b73841a37912ae56487a9cee0112f710439299e618d85524f8e25321cafff7ed",
-    "CKA/1. Core Concepts.md": "095f5fed1d00d68db73418ab0babd3bdd28d4584aa2cf1c2bd4246a2580852ba"
+    "CKA/1. Core Concepts.md": "095f5fed1d00d68db73418ab0babd3bdd28d4584aa2cf1c2bd4246a2580852ba",
+    "CKAD/Chapters/1. Core/Cluster.md": "72e3d38b1558fc58d52a388956e5f17a620bec1bae2bad060fd7feb8625675d3",
+    "CKAD/Chapters/1. Core/Imperative_Commands.md": "b92d49f303013a7ee1f3cdb6bcd9b05fba62a525cd11cbdedf4891df191b8b91",
+    "CKAD/Chapters/1. Core/Objects.md": "853945e6dffdcecdd5b75fcb139cb31acacd955f26d696031ee168c6c4a6eade",
+    "CKAD/Chapters/2. Configuration/2. Configuration.md": "56a1604a72d7a295e46a570ce423dc0446fbd4765e8aaa5ad3a449f31710eb0d"
   }
 }
