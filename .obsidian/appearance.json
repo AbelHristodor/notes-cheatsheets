@@ -1,5 +1,6 @@
 {
   "accentColor": "#6b9eef",
   "cssTheme": "Catppuccin",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 19
 }
