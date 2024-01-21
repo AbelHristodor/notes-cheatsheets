@@ -14,7 +14,20 @@
               "type": "markdown",
               "state": {
                 "file": "CKAD/Chapters/1. Core Concepts.md",
-                "mode": "preview",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67454b31b9e04647",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CKAD/Namespaces.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -190,10 +203,10 @@
   "active": "725a7a29a7629f12",
   "lastOpenFiles": [
     "CKAD/Namespaces.md",
+    "CKAD/Chapters/1. Core Concepts.md",
     "CKAD/README.md",
     "CKAD/ReplicaSet_Deployments.md",
     "CKAD/Kubernetes Recap.md",
-    "CKAD/Chapters/1. Core Concepts.md",
     "_assets/CKAD/Deployment.png",
     "_assets/CKAD",
     "CKAD/Kubectl Cheatsheet.md",
