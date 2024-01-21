@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CKAD/Chapters/1. Core Concepts.md",
+                "file": "CKAD/Chapters/2. Configuration.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CKAD/Chapters/1. Core Concepts.md",
+                "file": "CKAD/Chapters/2. Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CKAD/Chapters/1. Core Concepts.md",
+                "file": "CKAD/Chapters/2. Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CKAD/Chapters/1. Core Concepts.md"
+                "file": "CKAD/Chapters/2. Configuration.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CKAD/Chapters/1. Core Concepts.md"
+                "file": "CKAD/Chapters/2. Configuration.md"
               }
             }
           }
@@ -189,11 +189,12 @@
   },
   "active": "5036f57947f95c83",
   "lastOpenFiles": [
+    "CKAD/Chapters/1. Core Concepts.md",
+    "CKAD/Chapters/2. Configuration.md",
     "Software Engineering/Web Architectures.md",
     "Software Engineering/Design Patterns.md",
     "Software Engineering/Architectural Design Patterns.md",
     "Software Engineering/Algorithms.md",
-    "CKAD/Chapters/1. Core Concepts.md",
     "CKAD/Chapters/Extra.md",
     "CKAD/README.md",
     "CKAD/Kubectl Cheatsheet.md",
@@ -204,7 +205,6 @@
     "_assets/CKAD",
     "CKAD/Chapters/5. Pod Design.md",
     "CKAD/Chapters/3. Multi-Container.md",
-    "CKAD/Chapters/2. Configuration.md",
     "CKA/README.md",
     "CKA/8. Networking.md",
     "CKA/7. Storage.md",
