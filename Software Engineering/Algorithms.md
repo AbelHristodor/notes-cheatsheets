@@ -1,6 +1,9 @@
 ---
 created: 2024-01-11T15:32
-updated: 2024-01-11T15:32
+updated: 2024-01-21T15:08
+tags:
+  - engineering
+  - interview-questions
 ---
 1. **Sorting Algorithms:**
    - **Bubble Sort**: A simple comparison-based algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The pass through the list is repeated until no swaps are needed. Its worst-case time complexity is O(n^2).

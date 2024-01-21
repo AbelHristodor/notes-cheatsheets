@@ -1,6 +1,9 @@
 ---
 created: 2024-01-11T15:04
-updated: 2024-01-11T15:04
+updated: 2024-01-21T15:08
+tags:
+  - engineering
+  - "#interview-questions"
 ---
 #designpatterns 
 

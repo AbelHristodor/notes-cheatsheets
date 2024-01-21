@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "faba0b4b91783543",
+        "id": "a940030c5d363bd2",
         "type": "tabs",
         "children": [
           {
-            "id": "725a7a29a7629f12",
+            "id": "5036f57947f95c83",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -187,10 +187,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "725a7a29a7629f12",
+  "active": "5036f57947f95c83",
   "lastOpenFiles": [
-    "CKAD/Chapters/Extra.md",
+    "Software Engineering/Web Architectures.md",
+    "Software Engineering/Design Patterns.md",
+    "Software Engineering/Architectural Design Patterns.md",
+    "Software Engineering/Algorithms.md",
     "CKAD/Chapters/1. Core Concepts.md",
+    "CKAD/Chapters/Extra.md",
     "CKAD/README.md",
     "CKAD/Kubectl Cheatsheet.md",
     "CKAD/Kubernetes Recap.md",
@@ -210,10 +214,6 @@
     "CKA/3. Logging & Monitoring.md",
     "CKA/2. Scheduling.md",
     "CKA/1. Core Concepts.md",
-    "Software Engineering/Design Patterns.md",
-    "Software Engineering/Architectural Design Patterns.md",
-    "Software Engineering/Algorithms.md",
-    "Software Engineering/Web Architectures.md",
     "HTTPS Status codes.md",
     "README.md",
     "Markdown Cheatsheet.md",
