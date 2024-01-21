@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328,
-    "collapsed": true
+    "width": 328
   },
   "right": {
     "id": "7d6416980086489a",
@@ -190,13 +189,13 @@
   },
   "active": "6d74e3df4213e483",
   "lastOpenFiles": [
+    "CKAD/README.md",
+    "CKAD/Chapters/1. Core Concepts.md",
     "CKAD/Chapters/5. Pod Design.md",
     "CKAD/Chapters/3. Multi-Container.md",
-    "CKAD/Chapters/1. Core Concepts.md",
     "CKAD/Chapters/2. Configuration.md",
     "CKAD/Kubectl Cheatsheet.md",
     "CKAD/ReplicaSet_Deployments.md",
-    "CKAD/README.md",
     "CKAD/Namespaces.md",
     "CKAD/Kubernetes Recap.md",
     "CKA/README.md",
