@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d2efd402444d79b4",
+        "id": "6042e42d02208ce1",
         "type": "tabs",
         "children": [
           {
-            "id": "2cec3a32a3bc27a7",
+            "id": "6d74e3df4213e483",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CKAD/Kubectl Cheatsheet.md",
-                "mode": "preview",
+                "file": "CKAD/Chapters/1. Core Concepts.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328
+    "width": 328,
+    "collapsed": true
   },
   "right": {
     "id": "7d6416980086489a",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CKAD/Kubectl Cheatsheet.md",
+                "file": "CKAD/Chapters/1. Core Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CKAD/Kubectl Cheatsheet.md",
+                "file": "CKAD/Chapters/1. Core Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CKAD/Kubectl Cheatsheet.md"
+                "file": "CKAD/Chapters/1. Core Concepts.md"
               }
             }
           },
@@ -157,13 +158,23 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "93c2496d29979894",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "CKAD/Chapters/1. Core Concepts.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
+    "width": 498,
     "collapsed": true
   },
   "left-ribbon": {
@@ -177,14 +188,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2cec3a32a3bc27a7",
+  "active": "6d74e3df4213e483",
   "lastOpenFiles": [
+    "CKAD/Chapters/5. Pod Design.md",
+    "CKAD/Chapters/3. Multi-Container.md",
+    "CKAD/Chapters/1. Core Concepts.md",
+    "CKAD/Chapters/2. Configuration.md",
+    "CKAD/Kubectl Cheatsheet.md",
     "CKAD/ReplicaSet_Deployments.md",
     "CKAD/README.md",
     "CKAD/Namespaces.md",
     "CKAD/Kubernetes Recap.md",
-    "CKAD/Kubectl Cheatsheet.md",
-    "CKAD/Chapters/1. Core Concepts.md",
     "CKA/README.md",
     "CKA/8. Networking.md",
     "CKA/7. Storage.md",
@@ -202,9 +216,6 @@
     "README.md",
     "Markdown Cheatsheet.md",
     "Java/Variables.md",
-    "Java/The java.lang.String class.md",
-    "Java/Introduction to Java.md",
-    "CKAD/Chapters/Extra.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

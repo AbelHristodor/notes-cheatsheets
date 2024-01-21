@@ -1,3 +1,7 @@
+---
+created: 2024-01-11T15:22
+updated: 2024-01-11T15:29
+---
 # Protocols
 ### REST (Representational State Transfer):
 REST is an architectural style for designing distributed systems. It was introduced and defined in 2000 by computer scientist Roy Fielding in his doctoral dissertation. REST is based on a set of principles, which include:
