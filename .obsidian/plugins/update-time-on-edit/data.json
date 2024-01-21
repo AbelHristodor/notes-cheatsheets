@@ -19,8 +19,6 @@
     "Java/Introduction to Java.md": "d3cca73e17ce79f13099c68edd41bcdda1e4cc3593616f811411f5c9180e9618",
     "HTTPS Status codes.md": "28296ba1b4fc29069a7347e0cdecc1e08affd81627c534fbab8372221ee86868",
     "CKAD/README.md": "c6efd2450d23edeb7d766e65c0ee7f265ba9a7c9459ed454b1142c40777b3be9",
-    "CKAD/Namespaces.md": "da24f885643f97b6f5f1b24f1b82f528e0055d3b7549983289c390088db95b48",
-    "CKAD/Kubernetes Recap.md": "a132278896c36bc887fc8f4d7b1da9d1695a8b0eeef81bf4ae17e86121befb9d",
     "CKAD/Kubectl Cheatsheet.md": "44937ba8590b64981e1e51116623766584658f02eb557450bae414fe3e2d1fee",
     "CKAD/Chapters/7. State Persistence.md": "474b5be6f20adabcb29b13dc2fbdb56e586bad870adfd749d207a1dbbe93fc56",
     "CKAD/Chapters/6. Services & Networking.md": "c3fae5cd1a05ab25bbd54c38be31e2d41a5d898b3b6c8c211cf799c82b19d2b5",
@@ -28,7 +26,7 @@
     "CKAD/Chapters/4. Observability.md": "b1a27603cc0433ec77dabfc23ea91bdfd5428b01a874bce7fb5b4b996a89cb6d",
     "CKAD/Chapters/3. Multi-Container.md": "f206c221db17bba72fccb0ac63ed517974c56b12e2ad0148420958be114b4596",
     "CKAD/Chapters/2. Configuration.md": "407401c1c7d2c8eb2246b375539e24305ddd48fc701432bc49ce16822201c5b8",
-    "CKAD/Chapters/1. Core Concepts.md": "3bb878d7b75422df98c6d3ccc6fd522aeb47c8df8a69a971aef23b76e248ae7e",
+    "CKAD/Chapters/1. Core Concepts.md": "bcbce8f4e21e769306b7e5641aed710bbe4ffc39be381a92df6e3a925be88d24",
     "CKA/README.md": "b73841a37912ae56487a9cee0112f710439299e618d85524f8e25321cafff7ed",
     "CKA/1. Core Concepts.md": "095f5fed1d00d68db73418ab0babd3bdd28d4584aa2cf1c2bd4246a2580852ba"
   }
