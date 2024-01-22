@@ -6,7 +6,7 @@
 		{"id":"219809e333c08bdc","type":"file","file":"CKAD/Chapters/2. Configuration/Security.md","x":-1440,"y":-500,"width":783,"height":920,"color":"2"},
 		{"id":"f20c2bee80914f07","type":"text","text":"# **Kubernetes**","x":-1780,"y":-2028,"width":367,"height":81,"color":"5"},
 		{"id":"1b7403d012b29353","type":"file","file":"_assets/K8s_Security_Checkup.png","x":-1640,"y":980,"width":1720,"height":1023},
-		{"id":"6a547036bda4ca4b","type":"text","text":"### Security Checklist","x":-1640,"y":930,"width":292,"height":50,"color":"6"},
+		{"id":"6a547036bda4ca4b","type":"text","text":"### Security Checklist","x":-1640,"y":930,"width":320,"height":50,"color":"6"},
 		{"id":"d235360af9682366","type":"text","text":"### Not in any particular order, but following arrows will get you a general understanding.","x":-2580,"y":-2067,"width":542,"height":160,"color":"6"},
 		{"id":"c8faee9525e5b8c9","type":"file","file":"CKAD/Kubectl Cheatsheet.md","x":-2620,"y":-3460,"width":720,"height":940,"color":"5"},
 		{"id":"acb709628254cf99","type":"file","file":"CKAD/Chapters/1. Core/Imperative_Commands.md","x":-3500,"y":-3600,"width":620,"height":1040,"color":"5"},
@@ -25,6 +25,7 @@
 		{"id":"ae71275c3c9ac156","fromNode":"f20c2bee80914f07","fromSide":"top","toNode":"c8faee9525e5b8c9","toSide":"bottom","color":"5","label":"Cheatsheet"},
 		{"id":"f0d473a8c948b2b0","fromNode":"c8faee9525e5b8c9","fromSide":"left","toNode":"acb709628254cf99","toSide":"right","color":"5"},
 		{"id":"f9f3bbc8a83e2de0","fromNode":"f20c2bee80914f07","fromSide":"right","toNode":"7df7f8374730e5c4","toSide":"left","color":"6"},
-		{"id":"21784613f64e87ba","fromNode":"6fcec37af7a393c5","fromSide":"bottom","toNode":"74aae7efe1e9d093","toSide":"top","color":"2","label":"Resource Usage"}
+		{"id":"21784613f64e87ba","fromNode":"6fcec37af7a393c5","fromSide":"bottom","toNode":"74aae7efe1e9d093","toSide":"top","color":"2","label":"Resource Usage"},
+		{"id":"1651bedcb07e4efc","fromNode":"6a547036bda4ca4b","fromSide":"right","toNode":"98276bc0a2351a28","toSide":"left"}
 	]
 }

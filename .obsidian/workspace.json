@@ -15,9 +15,9 @@
               "state": {
                 "file": "Kubernetes_Canvas.canvas",
                 "viewState": {
-                  "x": -2278.3004247799627,
-                  "y": 1428.0460628850383,
-                  "zoom": -0.840734176531597
+                  "x": -2165.6458983745374,
+                  "y": -2062.5710048522,
+                  "zoom": -0.9423364969753314
                 }
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CKAD/Chapters/1. Core/Objects.md",
+                "file": "Kubernetes_Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CKAD/Chapters/1. Core/Objects.md",
+                "file": "Kubernetes_Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CKAD/Chapters/1. Core/Objects.md"
+                "file": "Kubernetes_Canvas.canvas"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CKAD/Chapters/1. Core/Objects.md"
+                "file": "Kubernetes_Canvas.canvas"
               }
             }
           }
@@ -189,12 +189,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "73c3bcbfb74c7790",
+  "active": "a70b9cc4759ba9c4",
   "lastOpenFiles": [
+    "CKAD/Chapters/1. Core/Cluster.md",
+    "Kubernetes_Canvas.canvas",
     "CKAD/Chapters/2. Configuration/Selectors, Tains, Tolerations.md",
     "CKAD/Chapters/2. Configuration/Security.md",
     "CKAD/Chapters/2. Configuration/Resources.md",
-    "Kubernetes_Canvas.canvas",
     "CKAD/Chapters/2. Configuration/Env, ConfigMaps, Secrets.md",
     "_assets/K8s_Security_Checkup.png",
     "Pasted image 20240121200908.png",
@@ -209,7 +210,6 @@
     "CKAD/Chapters/5. Pod Design.md",
     "CKAD/Chapters/4. Observability.md",
     "CKAD/Chapters/3. Multi-Container.md",
-    "CKAD/Chapters/1. Core/Cluster.md",
     "CKAD/Chapters/1. Core/Imperative_Commands.md",
     "CKAD/Chapters/1. Core/Objects.md",
     "CKAD/Chapters/2. Configuration",
