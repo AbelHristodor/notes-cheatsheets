@@ -1,14 +1,15 @@
 ---
-title: Configuration
-Done: false
+category: Configuration
+Done: true
 tags:
   - ckad
   - kubernetes
   - pod
   - configmap
   - secrets
+order: 4
 created: 2024-01-11T15:04
-updated: 2024-01-21T19:45
+updated: 2024-01-21T19:52
 ---
 # Pod
 ## Command & Args
@@ -134,28 +135,6 @@ volumes:
     secretName: my_secret
 ```
 
-# SecurityContexts
-A security context defines privilege and access control settings for a Pod or Container. Container settings are privileged compared to Pod-level security contexts. By running a pod without a *security context* it will run as *root* user as default.
-
-```yaml
-apiVersion: v1
-kind: Pod
-metadata:
-  name: security-context-demo
-spec:
-  securityContext:
-    runAsUser: 1000
-    runAsGroup: 3000
-    fsGroup: 2000
-  containers:
-  - name: sec-ctx-demo
-    image: busybox:1.28
-    command: [ "sh", "-c", "sleep 1h" ]
-    securityContext:
-	  capabilities:
-		  add: ["MAC_ADMIN"] # Add other capabilities here -- linux -- only supported at container-level
-      allowPrivilegeEscalation: false
-```
 
 
 **Next:** [[3. Multi-Container]]

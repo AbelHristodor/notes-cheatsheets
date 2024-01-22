@@ -1,11 +1,12 @@
 ---
+category: Core
 Done: true
 tags:
   - ckad
   - kubernetes
 order: 1
 created: 2024-01-21T12:25:00
-updated: 2024-01-21T19:47
+updated: 2024-01-21T19:52
 ---
 # Cluster
 Is a set of nodes where, when one node fails, the other nodes take up the load. So, having multiple nodes also helps sharing workload.
@@ -51,4 +52,4 @@ It is the agent running in each node and it is responsible of making sure contai
 <p align="center" style="font-style: italic">Kubernetes general architecture</p>
 
 
-**Next:** [[2. Configuration]]
+**Next:** [[Env, ConfigMaps, Secrets]]

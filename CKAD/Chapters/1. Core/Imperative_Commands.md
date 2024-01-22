@@ -1,10 +1,11 @@
 ---
+category: Core
 Done: true
 tags:
   - cheatsheet
 order: 3
 created: 2024-01-21T19:43
-updated: 2024-01-21T19:48
+updated: 2024-01-21T19:52
 ---
 # Imperative Commands
 While you would be working mostly the declarative way - using definition files, imperative commands can help in getting one-time tasks done quickly, as well as generate a definition template easily. This would help<mark style="background: #FFF3A3A6;"> save a considerable amount of time</mark> during your exams.

@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"bfcdc76f4745b660","type":"file","file":"CKAD/Chapters/1. Core/Cluster.md","x":-3400,"y":-1240,"width":720,"height":740,"color":"3"},
+		{"id":"6fcec37af7a393c5","type":"file","file":"CKAD/Chapters/1. Core/Objects.md","x":-4360,"y":-500,"width":860,"height":1460,"color":"3"},
+		{"id":"886d863e4836251f","type":"file","file":"CKAD/Chapters/2. Configuration/Env, ConfigMaps, Secrets.md","x":-2520,"y":-1000,"width":712,"height":2120,"color":"2"},
+		{"id":"219809e333c08bdc","type":"file","file":"CKAD/Chapters/2. Configuration/Security.md","x":-1440,"y":-500,"width":783,"height":920,"color":"2"},
+		{"id":"f20c2bee80914f07","type":"text","text":"# **Kubernetes**","x":-1780,"y":-2028,"width":367,"height":81,"color":"5"},
+		{"id":"1b7403d012b29353","type":"file","file":"_assets/K8s_Security_Checkup.png","x":-1640,"y":980,"width":1720,"height":1023},
+		{"id":"6a547036bda4ca4b","type":"text","text":"### Security Checklist","x":-1640,"y":930,"width":292,"height":50,"color":"6"},
+		{"id":"d235360af9682366","type":"text","text":"### Not in any particular order, but following arrows will get you a general understanding.","x":-2580,"y":-2067,"width":542,"height":160,"color":"6"},
+		{"id":"c8faee9525e5b8c9","x":-2620,"y":-3460,"width":720,"height":940,"color":"5","type":"file","file":"CKAD/Kubectl Cheatsheet.md"},
+		{"id":"acb709628254cf99","x":-3500,"y":-3600,"width":620,"height":1040,"color":"5","type":"file","file":"CKAD/Chapters/1. Core/Imperative_Commands.md"},
+		{"id":"efee14a5b349de4b","type":"file","file":"_assets/Kubernetes_General_Architecture.png","x":-4223,"y":-2314,"width":1160,"height":734},
+		{"id":"57a9f6a79dfe1e86","type":"text","text":"### Always keep in mind the general architecture","x":-4223,"y":-2364,"width":587,"height":50},
+		{"id":"7df7f8374730e5c4","x":-1240,"y":-2237,"width":786,"height":290,"color":"6","type":"text","text":"## Basic Resources\nHere are some basic resources useful to learn K8s and practice for the CKAD exam.\n- [Kubernetes Docs](https://kubernetes.io/docs/home/) --> Docs\n- [KodeKloud Practice](https://kodekloud.com/) --> Labs for pratical exercises\n- [Killer.sh Practice](https://killer.sh/) --> Exam simulation\n- [CKAD Udemy Course](https://www.udemy.com/course/certified-kubernetes-application-developer/)"}
+	],
+	"edges":[
+		{"id":"a70a46c186c724da","fromNode":"f20c2bee80914f07","fromSide":"bottom","toNode":"bfcdc76f4745b660","toSide":"top","color":"3","label":"Basics"},
+		{"id":"567633fdb227c0a9","fromNode":"bfcdc76f4745b660","fromSide":"left","toNode":"6fcec37af7a393c5","toSide":"top","color":"3","label":"Basic objects"},
+		{"id":"4a95e158a8965ed4","fromNode":"f20c2bee80914f07","fromSide":"bottom","toNode":"886d863e4836251f","toSide":"top","color":"2","label":"Configuration"},
+		{"id":"9f8e7cc7472dcb51","fromNode":"886d863e4836251f","fromSide":"right","toNode":"219809e333c08bdc","toSide":"left","color":"2","label":"Container\nSecurity"},
+		{"id":"d7eb255409cfc911","fromNode":"6fcec37af7a393c5","fromSide":"right","toNode":"886d863e4836251f","toSide":"left","color":"2","label":"Config"},
+		{"id":"76dbb6044639695d","fromNode":"219809e333c08bdc","fromSide":"bottom","toNode":"1b7403d012b29353","toSide":"top","color":"2","label":"security does not stop here,\nthere's much more"},
+		{"id":"ae71275c3c9ac156","fromNode":"f20c2bee80914f07","fromSide":"top","toNode":"c8faee9525e5b8c9","toSide":"bottom","color":"5","label":"Cheatsheet"},
+		{"id":"f0d473a8c948b2b0","fromNode":"c8faee9525e5b8c9","fromSide":"left","toNode":"acb709628254cf99","toSide":"right","color":"5"},
+		{"id":"f9f3bbc8a83e2de0","fromNode":"f20c2bee80914f07","fromSide":"right","toNode":"7df7f8374730e5c4","toSide":"left","color":"6"}
+	]
+}

@@ -1,4 +1,5 @@
 ---
+category: Core
 Done: true
 tags:
   - pod
@@ -7,7 +8,7 @@ tags:
   - namespace
 order: 2
 created: 2024-01-21T19:41
-updated: 2024-01-21T19:47
+updated: 2024-01-21T19:52
 ---
 # Pods
 Containers are encapsulated in a k8s object known as *pod*. The smallest object you can create in K8s representing a single instance of your application.
