@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CKAD/Chapters/2. Configuration/Resources.md",
+                "file": "CKAD/Chapters/2. Configuration/Selectors, Tains, Tolerations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CKAD/Chapters/2. Configuration/Resources.md",
+                "file": "CKAD/Chapters/2. Configuration/Selectors, Tains, Tolerations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CKAD/Chapters/2. Configuration/Resources.md",
+                "file": "CKAD/Chapters/2. Configuration/Selectors, Tains, Tolerations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CKAD/Chapters/2. Configuration/Resources.md"
+                "file": "CKAD/Chapters/2. Configuration/Selectors, Tains, Tolerations.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CKAD/Chapters/2. Configuration/Resources.md"
+                "file": "CKAD/Chapters/2. Configuration/Selectors, Tains, Tolerations.md"
               }
             }
           }
@@ -189,9 +189,10 @@
   },
   "active": "73c3bcbfb74c7790",
   "lastOpenFiles": [
+    "CKAD/Chapters/2. Configuration/Security.md",
+    "CKAD/Chapters/2. Configuration/Selectors, Tains, Tolerations.md",
     "Kubernetes_Canvas.canvas",
     "CKAD/Chapters/2. Configuration/Resources.md",
-    "CKAD/Chapters/2. Configuration/Security.md",
     "CKAD/Chapters/2. Configuration/Env, ConfigMaps, Secrets.md",
     "_assets/K8s_Security_Checkup.png",
     "Pasted image 20240121200908.png",
@@ -221,7 +222,6 @@
     "_assets/CKAD/Deployment.png",
     "_assets/CKAD",
     "CKA/README.md",
-    "CKA/8. Networking.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Software Engineering",

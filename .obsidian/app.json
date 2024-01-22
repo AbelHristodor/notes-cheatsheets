@@ -16,7 +16,7 @@
     "downscalePercent": 100
   },
   "vimMode": true,
-  "propertiesInDocument": "visible",
+  "propertiesInDocument": "source",
   "foldHeading": false,
   "foldIndent": false
 }

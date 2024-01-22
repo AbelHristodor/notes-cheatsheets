@@ -1,6 +1,6 @@
 ---
 category: Configuration
-Done: 
+Done: true
 tags:
   - ckad
   - kubernetes
@@ -8,7 +8,7 @@ tags:
   - service-accounts
 order: 5
 created: 2024-01-21T19:50
-updated: 2024-01-22T09:58
+updated: 2024-01-22T10:36
 ---
 # SecurityContexts
 A security context defines privilege and access control settings for a Pod or Container. Container settings are privileged compared to Pod-level security contexts. By running a pod without a *security context* it will run as *root* user as default.

@@ -1,13 +1,13 @@
 ---
 category: Configuration
-Done: 
+Done: true
 tags:
   - ckad
   - kubernetes
   - resources
 order: 6
 created: 2024-01-22T10:08
-updated: 2024-01-22T10:31
+updated: 2024-01-22T10:36
 ---
 # Resource Requirements
 When deploying a pod on a node it requires some CPU and Memory to run. In k8s there are two metrics that allow the *scheduler* to understand if a pod can fit onto a node or if it should wait for a bigger node to deploy the pod: **requests** and **limits**.
