@@ -15,9 +15,9 @@
               "state": {
                 "file": "Kubernetes_Canvas.canvas",
                 "viewState": {
-                  "x": -3237.919836624613,
-                  "y": -2464.6737316959766,
-                  "zoom": -0.9423364969753314
+                  "x": -2140,
+                  "y": -2908.959111933396,
+                  "zoom": -2.590734176531597
                 }
               }
             }
@@ -189,8 +189,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a70b9cc4759ba9c4",
+  "active": "73c3bcbfb74c7790",
   "lastOpenFiles": [
+    "CKAD/Chapters/1. Core/Objects.md",
+    "CKAD/Chapters/1. Core/Imperative_Commands.md",
     "CKAD/Chapters/1. Core/Cluster.md",
     "Kubernetes_Canvas.canvas",
     "CKAD/Chapters/2. Configuration/Selectors, Tains, Tolerations.md",
@@ -210,8 +212,6 @@
     "CKAD/Chapters/5. Pod Design.md",
     "CKAD/Chapters/4. Observability.md",
     "CKAD/Chapters/3. Multi-Container.md",
-    "CKAD/Chapters/1. Core/Imperative_Commands.md",
-    "CKAD/Chapters/1. Core/Objects.md",
     "CKAD/Chapters/2. Configuration",
     "CKAD/Chapters/1. Core",
     "Markdown Cheatsheet.md",

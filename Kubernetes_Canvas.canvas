@@ -25,7 +25,6 @@
 		{"id":"ae71275c3c9ac156","fromNode":"f20c2bee80914f07","fromSide":"top","toNode":"c8faee9525e5b8c9","toSide":"bottom","color":"5","label":"Cheatsheet"},
 		{"id":"f0d473a8c948b2b0","fromNode":"c8faee9525e5b8c9","fromSide":"left","toNode":"acb709628254cf99","toSide":"right","color":"5"},
 		{"id":"f9f3bbc8a83e2de0","fromNode":"f20c2bee80914f07","fromSide":"right","toNode":"7df7f8374730e5c4","toSide":"left","color":"6"},
-		{"id":"21784613f64e87ba","fromNode":"6fcec37af7a393c5","fromSide":"bottom","toNode":"74aae7efe1e9d093","toSide":"top","color":"2","label":"Resource Usage"},
-		{"id":"1651bedcb07e4efc","fromNode":"6a547036bda4ca4b","fromSide":"right","toNode":"98276bc0a2351a28","toSide":"left"}
+		{"id":"21784613f64e87ba","fromNode":"6fcec37af7a393c5","fromSide":"bottom","toNode":"74aae7efe1e9d093","toSide":"top","color":"2","label":"Resource Usage"}
 	]
 }
