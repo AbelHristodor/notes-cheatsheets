@@ -11,14 +11,12 @@
             "id": "73c3bcbfb74c7790",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Kubernetes_Canvas.canvas",
-                "viewState": {
-                  "x": -2140,
-                  "y": -2908.959111933396,
-                  "zoom": -2.590734176531597
-                }
+                "file": "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes_Canvas.canvas",
+                "file": "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes_Canvas.canvas",
+                "file": "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes_Canvas.canvas"
+                "file": "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md"
               }
             }
           },
@@ -166,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kubernetes_Canvas.canvas"
+                "file": "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md"
               }
             }
           }
@@ -193,9 +191,9 @@
   "lastOpenFiles": [
     "CKAD/Chapters/1. Core/Objects.md",
     "CKAD/Chapters/1. Core/Imperative_Commands.md",
-    "CKAD/Chapters/1. Core/Cluster.md",
     "Kubernetes_Canvas.canvas",
-    "CKAD/Chapters/2. Configuration/Selectors, Tains, Tolerations.md",
+    "CKAD/Chapters/1. Core/Cluster.md",
+    "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md",
     "CKAD/Chapters/2. Configuration/Security.md",
     "CKAD/Chapters/2. Configuration/Resources.md",
     "CKAD/Chapters/2. Configuration/Env, ConfigMaps, Secrets.md",
