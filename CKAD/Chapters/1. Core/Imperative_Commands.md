@@ -5,7 +5,7 @@ tags:
   - cheatsheet
 order: 3
 created: 2024-01-21T19:43
-updated: 2024-01-21T19:52
+updated: 2024-01-31T17:50
 ---
 # Imperative Commands
 While you would be working mostly the declarative way - using definition files, imperative commands can help in getting one-time tasks done quickly, as well as generate a definition template easily. This would help<mark style="background: #FFF3A3A6;"> save a considerable amount of time</mark> during your exams.
@@ -20,6 +20,18 @@ Use the above two in combination along with Linux output redirection to generate
 
 `kubectl run nginx --image=nginx --dry-run=client -o yaml > nginx-pod.yaml`
 
+#### Nodes
+**Add a label to a node**
+`k label node <node> <key>=<value>`
+
+**Grab a node's taints**
+`k describe node <node> | grep Taint`
+
+**Taint a node**
+`k taint node <node> <key>=<value>:<type>` where type: `NoSchedule`, `NoExecute`, `PreferNoSchedule` 
+
+**To remove a taint from  a node**
+`k taint node <node> <key>=<value>:<type>-` --> notice the `-` as the last char. 
 #### POD
 
 **Create an NGINX Pod**

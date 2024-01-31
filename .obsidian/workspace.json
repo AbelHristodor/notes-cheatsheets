@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md",
+                "file": "CKAD/Chapters/2. Configuration/Env, ConfigMaps, Secrets.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md",
+                "file": "CKAD/Chapters/2. Configuration/Env, ConfigMaps, Secrets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md",
+                "file": "CKAD/Chapters/2. Configuration/Env, ConfigMaps, Secrets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md"
+                "file": "CKAD/Chapters/2. Configuration/Env, ConfigMaps, Secrets.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md"
+                "file": "CKAD/Chapters/2. Configuration/Env, ConfigMaps, Secrets.md"
               }
             }
           }
@@ -189,13 +189,14 @@
   },
   "active": "73c3bcbfb74c7790",
   "lastOpenFiles": [
-    "CKAD/Chapters/1. Core/Objects.md",
+    "CKAD/Chapters/2. Configuration/Resources.md",
+    "CKAD/Chapters/2. Configuration/Security.md",
+    "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md",
+    "CKAD/Chapters/3. Multi-Container.md",
     "CKAD/Chapters/1. Core/Imperative_Commands.md",
+    "CKAD/Chapters/1. Core/Objects.md",
     "Kubernetes_Canvas.canvas",
     "CKAD/Chapters/1. Core/Cluster.md",
-    "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md",
-    "CKAD/Chapters/2. Configuration/Security.md",
-    "CKAD/Chapters/2. Configuration/Resources.md",
     "CKAD/Chapters/2. Configuration/Env, ConfigMaps, Secrets.md",
     "_assets/K8s_Security_Checkup.png",
     "Pasted image 20240121200908.png",
@@ -209,7 +210,6 @@
     "CKAD/Chapters/6. Services & Networking.md",
     "CKAD/Chapters/5. Pod Design.md",
     "CKAD/Chapters/4. Observability.md",
-    "CKAD/Chapters/3. Multi-Container.md",
     "CKAD/Chapters/2. Configuration",
     "CKAD/Chapters/1. Core",
     "Markdown Cheatsheet.md",

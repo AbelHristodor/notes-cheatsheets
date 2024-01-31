@@ -21,15 +21,15 @@
     "CKAD/Chapters/6. Services & Networking.md": "c3fae5cd1a05ab25bbd54c38be31e2d41a5d898b3b6c8c211cf799c82b19d2b5",
     "CKAD/Chapters/5. Pod Design.md": "6b4d87242f321aecdc2fd944580aa609b361225a181d58a601d278d26ea79060",
     "CKAD/Chapters/4. Observability.md": "b1a27603cc0433ec77dabfc23ea91bdfd5428b01a874bce7fb5b4b996a89cb6d",
-    "CKAD/Chapters/3. Multi-Container.md": "f206c221db17bba72fccb0ac63ed517974c56b12e2ad0148420958be114b4596",
+    "CKAD/Chapters/3. Multi-Container.md": "d1c52148e555214e85f04b3f0cdc3083c44b7374ee59d703d65fd020b3d8e871",
     "CKA/README.md": "b73841a37912ae56487a9cee0112f710439299e618d85524f8e25321cafff7ed",
     "CKA/1. Core Concepts.md": "095f5fed1d00d68db73418ab0babd3bdd28d4584aa2cf1c2bd4246a2580852ba",
     "CKAD/Chapters/1. Core/Cluster.md": "b65bb8f9a1c5fd66e328cca1acf4c897ee37dbe1e4a95bbff2c52187b8c667d8",
-    "CKAD/Chapters/1. Core/Imperative_Commands.md": "dcce9c7e874cd8496615ddffff8c022d65d36060a388121d89ae0bd28136917c",
+    "CKAD/Chapters/1. Core/Imperative_Commands.md": "6153f805a966c88ce70bec3a00f809e64cedc0e9e92a5c8e234479e539dab2e5",
     "CKAD/Chapters/1. Core/Objects.md": "aad379dfc29ef829a5bdbc5cf7277ff3c72f820c4752e2a1ee9f40fb12a9638e",
     "CKAD/Chapters/2. Configuration/Env, ConfigMaps, Secrets.md": "a4e3cf9b9f51d37c89123675d983efa409351581f6965e194f6dd49df16347f4",
     "CKAD/Chapters/2. Configuration/Security.md": "6c86dda10ddcdb05bbedc1a4ac2f57d24b2f42838d49e73c32530cabac95a140",
     "CKAD/Chapters/2. Configuration/Resources.md": "ec600569ef2966e63e5c4830cd59a494fcaf34d04a64f1f0a9ab5f2dc983cf20",
-    "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md": "6b5edf73f146946eca0b6c8a1c8cce00e318d51929ca3c923788c8ba80fa0ef4"
+    "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md": "a2677d6cbe66b6f1e64749805b664b6774852f442cd0f91e56a398c70bbbcbd9"
   }
 }
