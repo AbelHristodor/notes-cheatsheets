@@ -7,7 +7,7 @@ tags:
   - selectors/taints
 order: 5
 created: 2024-01-22T10:38
-updated: 2024-01-31T17:22
+updated: 2024-01-31T17:36
 ---
 # Taints and Tolerations
 Taints and Tolerations are used to set restrictions on what pods can be scheduled on what nodes.
@@ -56,3 +56,25 @@ spec:
 ```
 
 So, the scheduler will schedule the pod only on the nodes having the specified label.
+The main downside with *node selectors* is that you do **not** have access to more control over the nodes the pod should schedule.  What if you wanted to schedule on node `large` **or** `medium`? 
+For this you need **Node Affinity**.
+
+## Node Affinity
+This features provides more advanced capabilities regarding pod scheduling on pods. It is more complex that node selectors, in fact here's the equivalent *node selector* code but written with **affinities**.
+
+```yaml
+spec:
+  affinity:
+    nodeAffinity:
+      requiredDuringSchedulingIgnoredDuringExecution:
+        nodeSelectorTerms:
+          - matchExpressios:
+              - key: size
+                operator: In / NotIn etc..
+                values: 
+                  - large
+```
+
+**Node Affinity Types**:
+- *requiredDuringSchedulingIgnoredDuringExecution*
+- *preferredDuringSchedulingIgnoredDuringExecution*
