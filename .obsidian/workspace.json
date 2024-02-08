@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CKAD/Chapters/5. Pod Design.md",
-                "mode": "source",
+                "file": "CKAD/Chapters/1. Core/Imperative_Commands.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CKAD/Chapters/5. Pod Design.md",
+                "file": "CKAD/Chapters/1. Core/Imperative_Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CKAD/Chapters/5. Pod Design.md",
+                "file": "CKAD/Chapters/1. Core/Imperative_Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CKAD/Chapters/5. Pod Design.md"
+                "file": "CKAD/Chapters/1. Core/Imperative_Commands.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CKAD/Chapters/5. Pod Design.md"
+                "file": "CKAD/Chapters/1. Core/Imperative_Commands.md"
               }
             }
           }
@@ -189,11 +189,11 @@
   },
   "active": "73c3bcbfb74c7790",
   "lastOpenFiles": [
+    "CKAD/Chapters/5. Pod Design.md",
     "CKAD/Chapters/4. Observability.md",
     "Kubernetes_Canvas.canvas",
     "CKAD/Chapters/3. Multi-Container.md",
     "CKAD/Chapters/6. Services & Networking.md",
-    "CKAD/Chapters/5. Pod Design.md",
     "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md",
     "CKAD/Chapters/2. Configuration/Env, ConfigMaps, Secrets.md",
     "CKAD/Chapters/2. Configuration/Resources.md",
