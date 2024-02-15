@@ -11,14 +11,12 @@
             "id": "73c3bcbfb74c7790",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Kubernetes_Canvas.canvas",
-                "viewState": {
-                  "x": -738.9050409042799,
-                  "y": 2555.7445279791473,
-                  "zoom": -0.9091420343974211
-                }
+                "file": "Vanguard/1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CKAD/Chapters/2. Configuration/Security.md",
+                "file": "Vanguard/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CKAD/Chapters/2. Configuration/Security.md",
+                "file": "Vanguard/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CKAD/Chapters/2. Configuration/Security.md"
+                "file": "Vanguard/1.md"
               }
             }
           },
@@ -166,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CKAD/Chapters/2. Configuration/Security.md"
+                "file": "Vanguard/1.md"
               }
             }
           }
@@ -191,10 +189,13 @@
   },
   "active": "73c3bcbfb74c7790",
   "lastOpenFiles": [
+    "Vanguard/2.md",
+    "Vanguard/1.md",
+    "Kubernetes_Canvas.canvas",
+    "Vanguard",
     "CKAD/Chapters/1. Core/Imperative_Commands.md",
     "CKAD/Chapters/5. Pod Design.md",
     "CKAD/Chapters/4. Observability.md",
-    "Kubernetes_Canvas.canvas",
     "CKAD/Chapters/3. Multi-Container.md",
     "CKAD/Chapters/6. Services & Networking.md",
     "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md",
@@ -223,7 +224,6 @@
     "CKAD/ReplicaSet_Deployments.md",
     "_assets/CKAD/Deployment.png",
     "_assets/CKAD",
-    "CKA/README.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Software Engineering",

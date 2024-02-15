@@ -30,6 +30,8 @@
     "CKAD/Chapters/2. Configuration/Env, ConfigMaps, Secrets.md": "a4e3cf9b9f51d37c89123675d983efa409351581f6965e194f6dd49df16347f4",
     "CKAD/Chapters/2. Configuration/Security.md": "6c86dda10ddcdb05bbedc1a4ac2f57d24b2f42838d49e73c32530cabac95a140",
     "CKAD/Chapters/2. Configuration/Resources.md": "ec600569ef2966e63e5c4830cd59a494fcaf34d04a64f1f0a9ab5f2dc983cf20",
-    "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md": "a2677d6cbe66b6f1e64749805b664b6774852f442cd0f91e56a398c70bbbcbd9"
+    "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md": "a2677d6cbe66b6f1e64749805b664b6774852f442cd0f91e56a398c70bbbcbd9",
+    "Vanguard/1.md": "fe539617b9aea85aa0b342f19beafdbc477d4ee97a7c751768836692b0162fa7",
+    "Vanguard/2.md": "5f539f537b4da26b847856d145fcc17fc44546e319e3b5c35feb7d5984658df6"
   }
 }
