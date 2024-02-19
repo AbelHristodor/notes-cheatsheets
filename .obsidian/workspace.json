@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CKAD/Chapters/1. Core/Objects.md",
+                "file": "CKAD/Chapters/5. Pod Design.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328
+    "width": 328,
+    "collapsed": true
   },
   "right": {
     "id": "7d6416980086489a",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CKAD/Chapters/1. Core/Objects.md",
+                "file": "CKAD/Chapters/5. Pod Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CKAD/Chapters/1. Core/Objects.md",
+                "file": "CKAD/Chapters/5. Pod Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CKAD/Chapters/1. Core/Objects.md"
+                "file": "CKAD/Chapters/5. Pod Design.md"
               }
             }
           },
@@ -164,7 +165,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CKAD/Chapters/1. Core/Objects.md"
+                "file": "CKAD/Chapters/5. Pod Design.md"
               }
             }
           }
@@ -189,6 +190,7 @@
   },
   "active": "73c3bcbfb74c7790",
   "lastOpenFiles": [
+    "CKAD/Chapters/1. Core/Objects.md",
     "CKAD/Chapters/1. Core/Imperative_Commands.md",
     "CKAD/Chapters/1. Core/Cluster.md",
     "Vanguard/1.md",
@@ -203,7 +205,6 @@
     "CKAD/Chapters/2. Configuration/Env, ConfigMaps, Secrets.md",
     "CKAD/Chapters/2. Configuration/Resources.md",
     "CKAD/Chapters/2. Configuration/Security.md",
-    "CKAD/Chapters/1. Core/Objects.md",
     "_assets/K8s_Security_Checkup.png",
     "Pasted image 20240121200908.png",
     "_assets/Kubernetes_General_Architecture.png",
