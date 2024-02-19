@@ -15,11 +15,11 @@
     "README.md": "b746bae4e25a3ae92db55c7a92255d40c200fc9e9b5f68d74d3d59525a699103",
     "Markdown Cheatsheet.md": "ff66adfff5aad1f2ab23df3a82ebba6294e17a0155072a9f892998a73356573e",
     "HTTPS Status codes.md": "06ae1a239c7e099b18f916c047a88064ba093f349b605c89b37ee9ef650329fc",
-    "CKAD/README.md": "842f2e55612413f403c94c54d5944bc7e824f8fac70530bd918e1fa40765155b",
+    "CKAD/README.md": "bd355a034a44e9e5fde841ed83a6fd0232861514f917764b390723e01bc18fdc",
     "CKAD/Kubectl Cheatsheet.md": "44937ba8590b64981e1e51116623766584658f02eb557450bae414fe3e2d1fee",
-    "CKAD/Chapters/7. State Persistence.md": "3e37a6d0d5b865de26553d52250869bf4d5b165f885d189b4a6a6137b3ca9511",
-    "CKAD/Chapters/6. Services & Networking.md": "33dacb06f731ca0ddf5d52f48d225f13bab6e4692518389b051af134d042e10b",
-    "CKAD/Chapters/5. Pod Design.md": "692e6048dc24918959b00de1aad8fa76aee1cfc5a8eccef61130892925053957",
+    "CKAD/Chapters/7. State Persistence.md": "ca849cdd2600d3207452a0f19d6fb72ad54b50951bd5f7c6528edd903645137e",
+    "CKAD/Chapters/6. Services & Networking.md": "e6d0add30e67ed434ebba1067f9ceb456ab81f735b470b9ded7cf69588e7cd0d",
+    "CKAD/Chapters/5. Pod Design.md": "0738c59270b906df2ba58a1136f064bd06cb90aacc6858a83bf4717e824595ac",
     "CKAD/Chapters/4. Observability.md": "3df74411773c4a111bcb42b1926caf25bd629e2925cf9f09f2fd929dabea3c43",
     "CKAD/Chapters/3. Multi-Container.md": "05fcdb61d4153ab23a780c1e63552155d904c2a54f43b869aa4f631b32aa6786",
     "CKA/README.md": "b73841a37912ae56487a9cee0112f710439299e618d85524f8e25321cafff7ed",
@@ -30,6 +30,7 @@
     "CKAD/Chapters/2. Configuration/Env, ConfigMaps, Secrets.md": "a4e3cf9b9f51d37c89123675d983efa409351581f6965e194f6dd49df16347f4",
     "CKAD/Chapters/2. Configuration/Security.md": "6c86dda10ddcdb05bbedc1a4ac2f57d24b2f42838d49e73c32530cabac95a140",
     "CKAD/Chapters/2. Configuration/Resources.md": "ec600569ef2966e63e5c4830cd59a494fcaf34d04a64f1f0a9ab5f2dc983cf20",
-    "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md": "a2677d6cbe66b6f1e64749805b664b6774852f442cd0f91e56a398c70bbbcbd9"
+    "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md": "a2677d6cbe66b6f1e64749805b664b6774852f442cd0f91e56a398c70bbbcbd9",
+    "CKAD/Chapters/8. Security.md": "e15d6a7c45860bf7056c218729dd72253ccd6e75439ae3286bfbb28358ac8617"
   }
 }

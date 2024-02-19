@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CKAD/Chapters/7. State Persistence.md",
+                "file": "CKAD/Chapters/8. Security.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CKAD/Chapters/7. State Persistence.md",
+                "file": "CKAD/Chapters/8. Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CKAD/Chapters/7. State Persistence.md",
+                "file": "CKAD/Chapters/8. Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CKAD/Chapters/7. State Persistence.md"
+                "file": "CKAD/Chapters/8. Security.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CKAD/Chapters/7. State Persistence.md"
+                "file": "CKAD/Chapters/8. Security.md"
               }
             }
           }
@@ -189,29 +189,29 @@
   },
   "active": "a72bc4bb726c554e",
   "lastOpenFiles": [
+    "CKAD/Chapters/7. State Persistence.md",
+    "CKAD/Chapters/6. Services & Networking.md",
+    "CKAD/Chapters/5. Pod Design.md",
+    "CKAD/Chapters/4. Observability.md",
+    "CKAD/Chapters/3. Multi-Container.md",
     "CKAD/Chapters/8. Security.md",
     "CKAD/README.md",
-    "CKAD/Chapters/7. State Persistence.md",
     "CKAD/Kubectl Cheatsheet.md",
     "HTTPS Status codes.md",
     "Kubernetes_Canvas.canvas",
     "Markdown Cheatsheet.md",
     "README.md",
-    "CKAD/Chapters/6. Services & Networking.md",
     "_assets/CKAD/IngressEgress.png",
     "_assets/CKAD/Ingress.png",
     "_assets/CKAD/Example_ClusterIP.png",
     "Pasted image 20240219104012.png",
     "_assets/CKAD/NodePort.png",
-    "CKAD/Chapters/5. Pod Design.md",
     "CKAD/Chapters/1. Core/Objects.md",
     "CKAD/Chapters/1. Core/Imperative_Commands.md",
     "CKAD/Chapters/1. Core/Cluster.md",
     "Vanguard/1.md",
     "Vanguard/2.md",
     "Vanguard",
-    "CKAD/Chapters/4. Observability.md",
-    "CKAD/Chapters/3. Multi-Container.md",
     "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md",
     "CKAD/Chapters/2. Configuration/Env, ConfigMaps, Secrets.md",
     "CKAD/Chapters/2. Configuration/Resources.md",
