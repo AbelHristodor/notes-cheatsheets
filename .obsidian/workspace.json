@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vanguard/1.md",
+                "file": "CKAD/Chapters/1. Core/Objects.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vanguard/1.md",
+                "file": "CKAD/Chapters/1. Core/Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vanguard/1.md",
+                "file": "CKAD/Chapters/1. Core/Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vanguard/1.md"
+                "file": "CKAD/Chapters/1. Core/Objects.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Vanguard/1.md"
+                "file": "CKAD/Chapters/1. Core/Objects.md"
               }
             }
           }
@@ -189,11 +189,12 @@
   },
   "active": "73c3bcbfb74c7790",
   "lastOpenFiles": [
-    "Vanguard/2.md",
+    "CKAD/Chapters/1. Core/Imperative_Commands.md",
+    "CKAD/Chapters/1. Core/Cluster.md",
     "Vanguard/1.md",
+    "Vanguard/2.md",
     "Kubernetes_Canvas.canvas",
     "Vanguard",
-    "CKAD/Chapters/1. Core/Imperative_Commands.md",
     "CKAD/Chapters/5. Pod Design.md",
     "CKAD/Chapters/4. Observability.md",
     "CKAD/Chapters/3. Multi-Container.md",
@@ -203,7 +204,6 @@
     "CKAD/Chapters/2. Configuration/Resources.md",
     "CKAD/Chapters/2. Configuration/Security.md",
     "CKAD/Chapters/1. Core/Objects.md",
-    "CKAD/Chapters/1. Core/Cluster.md",
     "_assets/K8s_Security_Checkup.png",
     "Pasted image 20240121200908.png",
     "_assets/Kubernetes_General_Architecture.png",
