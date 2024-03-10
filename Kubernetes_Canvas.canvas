@@ -4,7 +4,7 @@
 		{"id":"bfcdc76f4745b660","type":"file","file":"Kubernetes/CKAD/Chapters/1. Core/Cluster.md","x":-3400,"y":-1240,"width":720,"height":740,"color":"3"},
 		{"id":"c8faee9525e5b8c9","type":"file","file":"Kubernetes/CKAD/Kubectl Cheatsheet.md","x":-2620,"y":-3460,"width":720,"height":940,"color":"5"},
 		{"id":"acb709628254cf99","type":"file","file":"Kubernetes/CKAD/Chapters/1. Core/Imperative_Commands.md","x":-3500,"y":-3600,"width":620,"height":1040,"color":"5"},
-		{"id":"efee14a5b349de4b","type":"file","file":"_assets/Kubernetes_General_Architecture.png","x":-4087,"y":-2314,"width":1160,"height":734},
+		{"id":"efee14a5b349de4b","type":"file","file":"_assets/Kubernetes/Kubernetes_General_Architecture.png","x":-4087,"y":-2314,"width":1160,"height":734},
 		{"id":"57a9f6a79dfe1e86","type":"text","text":"### Always keep in mind the general architecture","x":-4087,"y":-2364,"width":587,"height":50},
 		{"id":"7df7f8374730e5c4","type":"text","text":"## Basic Resources\nHere are some basic resources useful to learn K8s and practice for the CKAD exam.\n- [Kubernetes Docs](https://kubernetes.io/docs/home/) --> Docs\n- [KodeKloud Practice](https://kodekloud.com/) --> Labs for pratical exercises\n- [Killer.sh Practice](https://killer.sh/) --> Exam simulation\n- [CKAD Udemy Course](https://www.udemy.com/course/certified-kubernetes-application-developer/)","x":-1300,"y":-2604,"width":786,"height":290,"color":"6"},
 		{"id":"d235360af9682366","type":"text","text":"### Not in any particular order, but following arrows will get you a general understanding.","x":-2620,"y":-2147,"width":542,"height":160},
@@ -16,7 +16,7 @@
 		{"id":"219809e333c08bdc","type":"file","file":"Kubernetes/CKAD/Chapters/2. Configuration/Security.md","x":-1413,"y":820,"width":783,"height":920,"color":"2"},
 		{"id":"7914e1bc338408db","type":"file","file":"Kubernetes/CKAD/Chapters/3. Multi-Container.md","x":-2960,"y":1440,"width":920,"height":1320,"color":"2"},
 		{"id":"6a547036bda4ca4b","type":"text","text":"### Security Checklist","x":-1533,"y":1980,"width":320,"height":50,"color":"6"},
-		{"id":"1b7403d012b29353","type":"file","file":"_assets/K8s_Security_Checkup.png","x":-1533,"y":2030,"width":1720,"height":1023}
+		{"id":"1b7403d012b29353","type":"file","file":"_assets/Kubernetes/K8s_Security_Checkup.png","x":-1533,"y":2030,"width":1720,"height":1023}
 	],
 	"edges":[
 		{"id":"a70a46c186c724da","fromNode":"f20c2bee80914f07","fromSide":"bottom","toNode":"bfcdc76f4745b660","toSide":"top","color":"3","label":"Basics"},

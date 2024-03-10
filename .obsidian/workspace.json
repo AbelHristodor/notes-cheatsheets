@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f8d31fc8cbee0e99",
+        "id": "6a05f377a9bc004c",
         "type": "tabs",
         "children": [
           {
-            "id": "78f94974a8494eb3",
+            "id": "fc17ef6d72b98a49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/ServerMesh_Istio.md",
+                "file": "Kubernetes/Istio/1.TrafficManagement.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7d6416980086489a",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/ServerMesh_Istio.md",
+                "file": "Kubernetes/Istio/1.TrafficManagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/ServerMesh_Istio.md",
+                "file": "Kubernetes/Istio/1.TrafficManagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/ServerMesh_Istio.md"
+                "file": "Kubernetes/Istio/1.TrafficManagement.md"
               }
             }
           },
@@ -165,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kubernetes/ServerMesh_Istio.md"
+                "file": "Kubernetes/Istio/1.TrafficManagement.md"
               }
             }
           }
@@ -188,15 +187,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78f94974a8494eb3",
+  "active": "fc17ef6d72b98a49",
   "lastOpenFiles": [
-    "_assets/Pasted image 20230307105136.png",
-    "_assets/Kubernetes/Istio.png",
-    "Kubernetes/ServerMesh_Istio.md",
-    "_assets/Kubernetes",
-    "Kubernetes/CKAD/README.md",
-    "Kubernetes",
+    "Kubernetes/Istio/0.ServerMesh.md",
+    "Kubernetes/Istio/1.TrafficManagement.md",
     "Kubernetes/CKAD/Kubectl Cheatsheet.md",
+    "Kubernetes/CKAD/README.md",
+    "Kubernetes/Istio",
+    "_assets/Engineering/PipeFilterDesign.png",
+    "_assets/Engineering/MVC.png",
+    "_assets/Engineering/LayeredPattern.png",
+    "_assets/Kubernetes/Pasted image 20230307105136.png",
+    "_assets/Engineering",
+    "_assets/Kubernetes/deploys_rs.webp",
+    "_assets/Kubernetes/Kubernetes_General_Architecture.png",
+    "_assets/Kubernetes/K8s_Security_Checkup.png",
+    "_assets/Kubernetes/K8s_Architecture.png",
+    "_assets/Kubernetes/IstioArchitecture.png",
+    "_assets/Kubernetes/Istio.png",
+    "_assets/Kubernetes",
+    "Kubernetes",
     "Kubernetes/CKAD/Chapters/4. Observability.md",
     "Kubernetes/CKAD/Chapters/5. Pod Design.md",
     "Kubernetes/CKAD/Chapters/6. Services & Networking.md",
@@ -207,11 +217,6 @@
     "Kubernetes_Canvas.canvas",
     "Markdown Cheatsheet.md",
     "README.md",
-    "_assets/CKAD/IngressEgress.png",
-    "_assets/CKAD/Ingress.png",
-    "_assets/CKAD/Example_ClusterIP.png",
-    "Pasted image 20240219104012.png",
-    "_assets/CKAD/NodePort.png",
     "Kubernetes/CKAD/Chapters/1. Core/Objects.md",
     "Kubernetes/CKAD/Chapters/1. Core/Imperative_Commands.md",
     "Kubernetes/CKAD/Chapters/1. Core/Cluster.md",
@@ -222,17 +227,13 @@
     "Kubernetes/CKAD/Chapters/2. Configuration/Env, ConfigMaps, Secrets.md",
     "Kubernetes/CKAD/Chapters/2. Configuration/Resources.md",
     "Kubernetes/CKAD/Chapters/2. Configuration/Security.md",
-    "_assets/K8s_Security_Checkup.png",
-    "Pasted image 20240121200908.png",
-    "_assets/Kubernetes_General_Architecture.png",
     "Software Engineering/Web Architectures.md",
     "Software Engineering/Design Patterns.md",
     "Software Engineering/Architectural Design Patterns.md",
     "Software Engineering/Algorithms.md",
     "Kubernetes/CKAD/Chapters/2. Configuration",
     "Kubernetes/CKAD/Chapters/1. Core",
-    "_assets/CKAD/Deployment.png",
-    "_assets/CKAD",
+    "_assets/Kubernetes/CKAD",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Software Engineering"
