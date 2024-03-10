@@ -5,5 +5,11 @@
   "obsidian-relative-line-numbers",
   "update-time-on-edit",
   "canvas-send-to-back",
-  "canvas-card-bg-remover"
+  "canvas-card-bg-remover",
+  "templater-obsidian",
+  "dataview",
+  "obsidian-linter",
+  "url-into-selection",
+  "obsidian-plugin-toc",
+  "obsidian-reading-time"
 ]
