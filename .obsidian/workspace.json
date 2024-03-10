@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CKAD/Chapters/6. Services & Networking.md",
+                "file": "Kubernetes/ServerMesh_Istio.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328
+    "width": 328,
+    "collapsed": true
   },
   "right": {
     "id": "7d6416980086489a",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CKAD/Chapters/6. Services & Networking.md",
+                "file": "Kubernetes/ServerMesh_Istio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CKAD/Chapters/6. Services & Networking.md",
+                "file": "Kubernetes/ServerMesh_Istio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CKAD/Chapters/6. Services & Networking.md"
+                "file": "Kubernetes/ServerMesh_Istio.md"
               }
             }
           },
@@ -164,7 +165,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CKAD/Chapters/6. Services & Networking.md"
+                "file": "Kubernetes/ServerMesh_Istio.md"
               }
             }
           }
@@ -189,14 +190,16 @@
   },
   "active": "a72bc4bb726c554e",
   "lastOpenFiles": [
-    "CKAD/Chapters/8. Security.md",
-    "CKAD/Chapters/7. State Persistence.md",
-    "CKAD/Chapters/6. Services & Networking.md",
-    "CKAD/Chapters/5. Pod Design.md",
-    "CKAD/Chapters/4. Observability.md",
-    "CKAD/Chapters/3. Multi-Container.md",
-    "CKAD/README.md",
-    "CKAD/Kubectl Cheatsheet.md",
+    "Kubernetes/CKAD/README.md",
+    "Kubernetes/ServerMesh_Istio.md",
+    "Kubernetes",
+    "Kubernetes/CKAD/Kubectl Cheatsheet.md",
+    "Kubernetes/CKAD/Chapters/4. Observability.md",
+    "Kubernetes/CKAD/Chapters/5. Pod Design.md",
+    "Kubernetes/CKAD/Chapters/6. Services & Networking.md",
+    "Kubernetes/CKAD/Chapters/7. State Persistence.md",
+    "Kubernetes/CKAD/Chapters/8. Security.md",
+    "Kubernetes/CKAD/Chapters/3. Multi-Container.md",
     "HTTPS Status codes.md",
     "Kubernetes_Canvas.canvas",
     "Markdown Cheatsheet.md",
@@ -206,16 +209,16 @@
     "_assets/CKAD/Example_ClusterIP.png",
     "Pasted image 20240219104012.png",
     "_assets/CKAD/NodePort.png",
-    "CKAD/Chapters/1. Core/Objects.md",
-    "CKAD/Chapters/1. Core/Imperative_Commands.md",
-    "CKAD/Chapters/1. Core/Cluster.md",
+    "Kubernetes/CKAD/Chapters/1. Core/Objects.md",
+    "Kubernetes/CKAD/Chapters/1. Core/Imperative_Commands.md",
+    "Kubernetes/CKAD/Chapters/1. Core/Cluster.md",
     "Vanguard/1.md",
     "Vanguard/2.md",
     "Vanguard",
-    "CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md",
-    "CKAD/Chapters/2. Configuration/Env, ConfigMaps, Secrets.md",
-    "CKAD/Chapters/2. Configuration/Resources.md",
-    "CKAD/Chapters/2. Configuration/Security.md",
+    "Kubernetes/CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md",
+    "Kubernetes/CKAD/Chapters/2. Configuration/Env, ConfigMaps, Secrets.md",
+    "Kubernetes/CKAD/Chapters/2. Configuration/Resources.md",
+    "Kubernetes/CKAD/Chapters/2. Configuration/Security.md",
     "_assets/K8s_Security_Checkup.png",
     "Pasted image 20240121200908.png",
     "_assets/Kubernetes_General_Architecture.png",
@@ -223,8 +226,8 @@
     "Software Engineering/Design Patterns.md",
     "Software Engineering/Architectural Design Patterns.md",
     "Software Engineering/Algorithms.md",
-    "CKAD/Chapters/2. Configuration",
-    "CKAD/Chapters/1. Core",
+    "Kubernetes/CKAD/Chapters/2. Configuration",
+    "Kubernetes/CKAD/Chapters/1. Core",
     "^Pod.md",
     "_assets/CKAD/Deployment.png",
     "_assets/CKAD",
