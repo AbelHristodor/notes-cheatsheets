@@ -32,7 +32,7 @@
     "Kubernetes/CKAD/Chapters/1. Core/Objects.md": "aad379dfc29ef829a5bdbc5cf7277ff3c72f820c4752e2a1ee9f40fb12a9638e",
     "Kubernetes/CKA/1. Core Concepts.md": "095f5fed1d00d68db73418ab0babd3bdd28d4584aa2cf1c2bd4246a2580852ba",
     "Kubernetes/CKA/README.md": "b73841a37912ae56487a9cee0112f710439299e618d85524f8e25321cafff7ed",
-    "Kubernetes/Istio/1.TrafficManagement.md": "2468769372d883972bc1e57b850f83197c294751df9ae72cb106127264e522e7",
+    "Kubernetes/Istio/1.TrafficManagement.md": "9b6174250267da541db210576990938090281ecc66b42f8afbca7007f6014c5d",
     "Kubernetes/Istio/0.ServerMesh.md": "851bafcd321f0edd4bc2288235beea5a0f53887781b0f432f1501cb0edfc097f"
   }
 }
