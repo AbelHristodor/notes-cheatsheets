@@ -34,7 +34,7 @@
     "Kubernetes/CKA/README.md": "b73841a37912ae56487a9cee0112f710439299e618d85524f8e25321cafff7ed",
     "Kubernetes/Istio/1.TrafficManagement.md": "91b56e6914bf86054588d159ff0b1c31da8ffce00549341a86a0b8e17def507f",
     "Templates/GeneralNote.md": "24af85cfca90af789ae81c35fccda7fbc86f2f16429cdf3977cb667a7292db41",
-    "Kubernetes/Istio/2.Security.md": "7e2c27f19d3531d81d20a53c8ac117baeea2f3257271c68776b8037bf36c66ab",
+    "Kubernetes/Istio/2.Security.md": "7d954c0ebcf69344dd53fa5784f36fb694f47ae8ef5fe7cbcfad98e9e38162b1",
     "Kubernetes/Istio/0.ServiceMesh.md": "14dff6e3106babba8c8bb951c4f636d8bbae64c2e3f1d59f4a2bf02017cd367b"
   }
 }
