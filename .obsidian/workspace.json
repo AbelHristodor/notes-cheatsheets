@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "165ca599e3ade34a",
+        "id": "1dd380c43203a15f",
         "type": "tabs",
         "children": [
           {
-            "id": "4af58adcd63f8a4e",
+            "id": "2db2c819b902832d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,12 +188,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4af58adcd63f8a4e",
+  "active": "2db2c819b902832d",
   "lastOpenFiles": [
-    "Pasted image 20240409134901.png",
+    "_assets/Kubernetes/IstioSecurity.png",
+    "Kubernetes/Istio/2.Security.md",
     "Kubernetes/Istio/1.TrafficManagement.md",
     "Kubernetes/Istio/0.ServiceMesh.md",
-    "Kubernetes/Istio/2.Security.md",
     "Untitled.md",
     "Kubernetes/Istio/Security.md",
     "Templates/GeneralNote.md",
@@ -213,7 +213,6 @@
     "_assets/Kubernetes/K8s_Security_Checkup.png",
     "_assets/Kubernetes/K8s_Architecture.png",
     "_assets/Kubernetes/IstioArchitecture.png",
-    "_assets/Kubernetes/Istio.png",
     "_assets/Kubernetes",
     "Kubernetes",
     "Kubernetes/CKAD/Chapters/4. Observability.md",
