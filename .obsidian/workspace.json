@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14c03625b28ef162",
+        "id": "165ca599e3ade34a",
         "type": "tabs",
         "children": [
           {
-            "id": "798d31bddf9236b1",
+            "id": "4af58adcd63f8a4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,13 +188,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "798d31bddf9236b1",
+  "active": "4af58adcd63f8a4e",
   "lastOpenFiles": [
+    "Pasted image 20240409134901.png",
     "Kubernetes/Istio/1.TrafficManagement.md",
+    "Kubernetes/Istio/0.ServiceMesh.md",
     "Kubernetes/Istio/2.Security.md",
     "Untitled.md",
     "Kubernetes/Istio/Security.md",
-    "Kubernetes/Istio/0.ServerMesh.md",
     "Templates/GeneralNote.md",
     "Templates",
     "Kubernetes/CKAD/Kubernetes_Canvas.canvas",
@@ -232,7 +233,6 @@
     "Kubernetes/CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md",
     "Kubernetes/CKAD/Chapters/2. Configuration/Env, ConfigMaps, Secrets.md",
     "Kubernetes/CKAD/Chapters/2. Configuration/Resources.md",
-    "Kubernetes/CKAD/Chapters/2. Configuration/Security.md",
     "Kubernetes/CKAD/Chapters/2. Configuration",
     "Kubernetes/CKAD/Chapters/1. Core",
     "_assets/Kubernetes/CKAD",
