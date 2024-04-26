@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Istio/0.ServiceMesh.md",
+                "file": "Kubernetes/Istio/1.TrafficManagement.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Istio/0.ServiceMesh.md",
+                "file": "Kubernetes/Istio/1.TrafficManagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Istio/0.ServiceMesh.md",
+                "file": "Kubernetes/Istio/1.TrafficManagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Istio/0.ServiceMesh.md"
+                "file": "Kubernetes/Istio/1.TrafficManagement.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kubernetes/Istio/0.ServiceMesh.md"
+                "file": "Kubernetes/Istio/1.TrafficManagement.md"
               }
             }
           }
@@ -200,12 +200,12 @@
   },
   "active": "71ac9f66d2511085",
   "lastOpenFiles": [
-    "Kubernetes/Istio/1.TrafficManagement.md",
     "Kubernetes/Istio/2.Security.md",
+    "Kubernetes/Istio/1.TrafficManagement.md",
+    "Kubernetes/Istio/0.ServiceMesh.md",
     "_assets/Kubernetes/IstioAuthArch.png",
     "_assets/Kubernetes/IstioCerts.png",
     "_assets/Kubernetes/IstioMersh.png",
-    "Kubernetes/Istio/0.ServiceMesh.md",
     "_assets/Kubernetes/IstioSecurity.png",
     "Untitled.md",
     "Kubernetes/Istio/Security.md",
