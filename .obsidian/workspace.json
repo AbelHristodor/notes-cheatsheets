@@ -15,9 +15,9 @@
               "state": {
                 "file": "Kubernetes/CKAD/Kubernetes_Canvas.canvas",
                 "viewState": {
-                  "x": -2086.5,
-                  "y": -273.5,
-                  "zoom": -2.9169399867169905
+                  "x": -1027.985274211242,
+                  "y": -1947.8642764704914,
+                  "zoom": -0.9169399867169908
                 }
               }
             }
@@ -192,6 +192,12 @@
   },
   "active": "dddb48a498222393",
   "lastOpenFiles": [
+    "Kubernetes/CKAD/Chapters/8. Security.md",
+    "Kubernetes/CKAD/Chapters/3. Multi-Container.md",
+    "Kubernetes/CKAD/Kubernetes_Canvas.canvas",
+    "Kubernetes/CKAD/Chapters/7. State Persistence.md",
+    "Kubernetes/CKAD/Chapters/5. Pod Design.md",
+    "Kubernetes/CKAD/README.md",
     "Kubernetes/Istio/1.TrafficManagement.md",
     "Kubernetes/Istio/2.Security.md",
     "Kubernetes/Istio/0.ServiceMesh.md",
@@ -203,10 +209,8 @@
     "Kubernetes/Istio/Security.md",
     "Templates/GeneralNote.md",
     "Templates",
-    "Kubernetes/CKAD/Kubernetes_Canvas.canvas",
     "HTTPS Status codes.md",
     "Kubernetes/CKAD/Kubectl Cheatsheet.md",
-    "Kubernetes/CKAD/README.md",
     "Kubernetes/Istio",
     "_assets/Engineering/PipeFilterDesign.png",
     "_assets/Engineering/MVC.png",
@@ -218,11 +222,7 @@
     "_assets/Kubernetes",
     "Kubernetes",
     "Kubernetes/CKAD/Chapters/4. Observability.md",
-    "Kubernetes/CKAD/Chapters/5. Pod Design.md",
     "Kubernetes/CKAD/Chapters/6. Services & Networking.md",
-    "Kubernetes/CKAD/Chapters/7. State Persistence.md",
-    "Kubernetes/CKAD/Chapters/8. Security.md",
-    "Kubernetes/CKAD/Chapters/3. Multi-Container.md",
     "Markdown Cheatsheet.md",
     "README.md",
     "Kubernetes/CKAD/Chapters/1. Core/Objects.md",
