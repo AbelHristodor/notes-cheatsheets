@@ -11,14 +11,12 @@
             "id": "dddb48a498222393",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Kubernetes/CKAD/Kubernetes_Canvas.canvas",
-                "viewState": {
-                  "x": -1027.985274211242,
-                  "y": -1947.8642764704914,
-                  "zoom": -0.9169399867169908
-                }
+                "file": "Kubernetes/CKAD/Chapters/4. Observability.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/CKAD/Kubernetes_Canvas.canvas",
+                "file": "Kubernetes/CKAD/Chapters/4. Observability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/CKAD/Kubernetes_Canvas.canvas",
+                "file": "Kubernetes/CKAD/Chapters/4. Observability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/CKAD/Kubernetes_Canvas.canvas"
+                "file": "Kubernetes/CKAD/Chapters/4. Observability.md"
               }
             }
           },
@@ -166,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kubernetes/CKAD/Kubernetes_Canvas.canvas"
+                "file": "Kubernetes/CKAD/Chapters/4. Observability.md"
               }
             }
           }
@@ -192,9 +190,9 @@
   },
   "active": "dddb48a498222393",
   "lastOpenFiles": [
+    "Kubernetes/CKAD/Kubernetes_Canvas.canvas",
     "Kubernetes/CKAD/Chapters/8. Security.md",
     "Kubernetes/CKAD/Chapters/3. Multi-Container.md",
-    "Kubernetes/CKAD/Kubernetes_Canvas.canvas",
     "Kubernetes/CKAD/Chapters/7. State Persistence.md",
     "Kubernetes/CKAD/Chapters/5. Pod Design.md",
     "Kubernetes/CKAD/README.md",
