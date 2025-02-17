@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/CKAD/Chapters/4. Observability.md",
+                "file": "RHCSA/RH124.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4. Observability"
+              "title": "RH124"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/CKAD/Chapters/4. Observability.md",
+                "file": "RHCSA/RH124.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4. Observability"
+              "title": "Backlinks for RH124"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/CKAD/Chapters/4. Observability.md",
+                "file": "RHCSA/RH124.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 4. Observability"
+              "title": "Outgoing links from RH124"
             }
           },
           {
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/CKAD/Chapters/4. Observability.md",
+                "file": "RHCSA/RH124.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. Observability"
+              "title": "Outline of RH124"
             }
           },
           {
@@ -201,10 +201,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kubernetes/CKAD/Chapters/4. Observability.md"
+                "file": "RHCSA/RH124.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 4. Observability"
+              "title": "File properties for RH124"
             }
           }
         ],
@@ -228,10 +228,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a70b9cc4759ba9c4",
+  "active": "dddb48a498222393",
   "lastOpenFiles": [
-    "RHCSA/RH124.md",
     "Kubernetes/CKAD/Chapters/4. Observability.md",
+    "RHCSA/RH124.md",
+    "RHCSA/RH124.md",
     "RHCSA",
     "Kubernetes/CKAD/Kubernetes_Canvas.canvas",
     "Kubernetes/CKAD/Chapters/8. Security.md",
@@ -273,7 +274,6 @@
     "Vanguard",
     "Kubernetes/CKAD/Chapters/2. Configuration/Selectors, Taints, Tolerations.md",
     "Kubernetes/CKAD/Chapters/2. Configuration/Env, ConfigMaps, Secrets.md",
-    "Kubernetes/CKAD/Chapters/2. Configuration/Resources.md",
     "Kubernetes/CKAD/Chapters/2. Configuration",
     "Kubernetes/CKAD/Chapters/1. Core",
     "_assets/Kubernetes/CKAD",
