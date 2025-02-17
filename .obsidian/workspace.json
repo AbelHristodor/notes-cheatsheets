@@ -15,9 +15,20 @@
               "state": {
                 "file": "Kubernetes/CKAD/Chapters/4. Observability.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "4. Observability"
             }
           }
         ]
@@ -39,8 +50,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +69,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -71,7 +89,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -102,7 +122,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4. Observability"
             }
           },
           {
@@ -114,7 +136,9 @@
                 "file": "Kubernetes/CKAD/Chapters/4. Observability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 4. Observability"
             }
           },
           {
@@ -124,8 +148,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -134,8 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/CKAD/Chapters/4. Observability.md"
-              }
+                "file": "Kubernetes/CKAD/Chapters/4. Observability.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4. Observability"
             }
           },
           {
@@ -143,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -155,7 +190,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -165,7 +202,9 @@
               "type": "file-properties",
               "state": {
                 "file": "Kubernetes/CKAD/Chapters/4. Observability.md"
-              }
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 4. Observability"
             }
           }
         ],
@@ -185,11 +224,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dddb48a498222393",
+  "active": "a70b9cc4759ba9c4",
   "lastOpenFiles": [
+    "RHCSA/RH124.md",
+    "Kubernetes/CKAD/Chapters/4. Observability.md",
+    "RHCSA",
     "Kubernetes/CKAD/Kubernetes_Canvas.canvas",
     "Kubernetes/CKAD/Chapters/8. Security.md",
     "Kubernetes/CKAD/Chapters/3. Multi-Container.md",
@@ -219,7 +262,6 @@
     "_assets/Kubernetes/Kubernetes_General_Architecture.png",
     "_assets/Kubernetes",
     "Kubernetes",
-    "Kubernetes/CKAD/Chapters/4. Observability.md",
     "Kubernetes/CKAD/Chapters/6. Services & Networking.md",
     "Markdown Cheatsheet.md",
     "README.md",
@@ -236,7 +278,6 @@
     "Kubernetes/CKAD/Chapters/1. Core",
     "_assets/Kubernetes/CKAD",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Software Engineering"
+    "Untitled 1.canvas"
   ]
 }
